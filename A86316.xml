@@ -1,0 +1,1751 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The actors vindication, containing, three brief treatises, viz. I. Their antiquity. II. Their antient dignity, III. The true use of their quality. Written by Thomas Heywood.</title>
+            <title>Apology for actors</title>
+            <author>Heywood, Thomas, d. 1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86316</idno>
+            <idno type="STC">Wing H1777</idno>
+            <idno type="STC">Thomason E948_4</idno>
+            <idno type="STC">ESTC R6819</idno>
+            <idno type="EEBO-CITATION">99873042</idno>
+            <idno type="PROQUEST">99873042</idno>
+            <idno type="VID">168524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168524)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 142:E948[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The actors vindication, containing, three brief treatises, viz. I. Their antiquity. II. Their antient dignity, III. The true use of their quality. Written by Thomas Heywood.</title>
+                  <title>Apology for actors</title>
+                  <author>Heywood, Thomas, d. 1641.</author>
+                  <author>Cartwright, William, 1611-1643.</author>
+               </titleStmt>
+               <extent>[16], 46, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by G.E. for W. C[artwright],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An edition of: Heywood, Thomas.  An apology for actors.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Edited by William Cartwright, who has signed the dedication: W.C.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "June 15 1658"; "1658 June 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Actors --  Early works to 1800.</term>
+               <term>Theater --  Moral and ethical aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168524:1" rendition="simple:additions"/>
+            <p> 
+               <hi>THE ACTORS VINDICATION, CONTAINING, Three brief Treatiſes,</hi> viz.</p>
+            <list>
+               <item>
+                  <hi>I.</hi> Their Antiquity.</item>
+               <item>
+                  <hi>II.</hi> Their antient Dignity,</item>
+               <item>
+                  <hi>III.</hi> The true Uſe of their Quality.</item>
+            </list>
+            <p>
+               <hi>Written by</hi> Thomas Heywood.</p>
+            <p>Et prodeſſe ſolent &amp; delectare—</p>
+            <p>LONDON, <hi>Printed by</hi> G. E. <hi>for</hi> W. C.</p>
+            <pb facs="tcp:168524:2"/>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:168524:2"/>
+            <head>
+               <hi>To the moſt Knowing, the great Encourager of all Arts and LEARNING,</hi> The Right Honourable HENRY Lord Marqueſſe DORCHESTER, Earle of <hi>Kingſton,</hi> Viſcount <hi>Newarke,</hi> Lord <hi>Pierrepont,</hi> and <hi>Manvers.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Authour of this enſuing Poem, not long before his Death, diſcovering how un. deſervedly our Quality lay under the envious and ignorant, made our Vin<g ref="char:EOLhyphen"/>dication his Subject, which he hath aſ<g ref="char:EOLhyphen"/>certed with ſuch Arguments of Rea<g ref="char:EOLhyphen"/>ſon
+<pb facs="tcp:168524:3"/> and Learning, that the judicious will no doubt reſt ſatisfied of the law<g ref="char:EOLhyphen"/>fulneſs and (indeed) neceſſity of it: the gentleman was a Fellow of <hi>Peter.</hi> houſe in <hi>Cambridge;</hi> I ſhould think it a high part of ingratitude to let ſo il<g ref="char:EOLhyphen"/>laborate a Piece lye buried with him. And therefore to pay the Duty he Ow'd your Honour, to undeceive the World, and to revive his memory: I beſeech your Lordſhip, give me leave to purſue his Intention, by the humble Dedication of this his ſo Ge<g ref="char:EOLhyphen"/>nious a Work: And if to fix your Name to it be not a preſumption be<g ref="char:EOLhyphen"/>yond the reach of Pardon, I ſhall not diſpair of your Mercy, ſince your Candor affords it to the meaneſt, and to me by conſequence, who am in heart,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your most Submiſſive, W. C.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168524:3"/>
+            <head>To my good Friends and Fel<g ref="char:EOLhyphen"/>lows, the Actors of this City.</head>
+            <p>
+               <seg rend="decorInit">O</seg>
+               <g ref="char:V">Ʋ</g>t of my buſieſt houres, I have ſpared my ſelf ſo much time: as to touch ſome particulars concerning us, to approve our Antiquity, antient Dignity, and the true uſe of our quality. That it hath been antient we have derived it from more than two thouſand years agoe, ſucceſſively to this Age. That it hath been esteemed by the best and greatest: To omit all the noble Patrons of the former world, I need alledge no more than that Royall and Princely ſervice, in which of late years we have lived. That the <g ref="char:V">Ʋ</g>ſe thereof is authentique, I have done my endea<g ref="char:EOLhyphen"/>vour to instance by Hiſtory, and approve by Authori<g ref="char:EOLhyphen"/>ty. To excuſe my ignorance in affecting no flouriſh of Eloquence, to ſet a gloſſe upon my Treatiſe, I have no<g ref="char:EOLhyphen"/>thing to ſay for my ſelf but this: <hi>A good face needs no painting, and a good cauſe no abetting.</hi> Some over-curious have too liberally taxed us: and he (in my thoughts) is held worthy reproof, whoſe ignorance cannot anſwer for it ſelf: I hold it more honeſt for the guiltleſſe to excuſe, than the envious to exclaim. And we may as freely (out of our plainneſſe) anſwer, as they (out of their perverſneſſe object) inſtancing my ſelf by famous <hi>Scalliger,</hi> learned Doctor <hi>Gager,</hi>
+               <pb facs="tcp:168524:4"/> Doctor <hi>Gentiles,</hi> and others, whoſe opinions and ap<g ref="char:EOLhyphen"/>proved arguments on our part, I have in my brief diſ<g ref="char:EOLhyphen"/>courſe altogether omitted; becauſe I am loath to be taxed in borrowing from others: and beſides, their works being extant to the world, offer themſelves freely to every mans peruſall. I am profest adverſary to none, I rather covet reconcilement, than oppoſiti<g ref="char:EOLhyphen"/>on, nor proceeds this my labour from any envy in me, but rather to ſhew them wherein they erre. So wiſhing you free leave, with judicial Audience, honeſt Poets, and true gatherers; I commit you all to the fulneſs of your beſt wiſhes.</p>
+            <closer>
+               <signed>Yours ever, T. H.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168524:4"/>
+            <head>To the Judicial Reader.</head>
+            <p>I Have undertook a ſubject (courteous Rea<g ref="char:EOLhyphen"/>der) not of ſufficient countenance to boſtler it ſelf by his own ſtrength; and therefore have charitably reached it my hand to ſupport it againſt any ſucceeding Adverſary. I could wil<g ref="char:EOLhyphen"/>lingly have committed this work to ſome more able than my ſelf: for the weaker the Comba<g ref="char:EOLhyphen"/>tant, he needeth the ſtronger Arms. But in ex<g ref="char:EOLhyphen"/>tremities, I hold it better to wear ruſty Armour, than to go naked; yet if theſe weak habiliments of warre, can but buckler it from part of the rude buffets of our Adverſaries, I ſhall hold my pains ſufficiently guerdoned. My Pen hath ſeldome appeared in Print till this occaſion; I have ever been too jealous of mine own weaknes, willingly to thruſt into the Preſſe: nor had I at this time, but that a kinde of neceſſity enjoyned my com<g ref="char:EOLhyphen"/>ing abroad to ſatisfie this preſent generation what hath been ſaid in this buſineſſe. I have nei<g ref="char:EOLhyphen"/>ther ſhewed my ſelf over-preſumptuous, in skor<g ref="char:EOLhyphen"/>ning thy favour, nor too importunate a beggar, by too ſervily intreating it. What thou art con<g ref="char:EOLhyphen"/>tent
+<pb facs="tcp:168524:5"/> to beſtow upon my pains, I am content to accept: if good thoughts, they are all I deſire: if good words, they are more than I deſerve: if bad opinion, I am ſorry, I have incur'd it; if evil language, I know not how I have merited it: if any thing, I am pleaſed, if nothing, I am ſatisfied, contenting my ſelf with this: I have done no more than (had I been called to account) ſhewed what I could ſay in the defence of my own qua<g ref="char:EOLhyphen"/>lity.</p>
+            <closer>
+               <signed>Thine T. Heywood.</signed>
+            </closer>
+            <trailer>Firma valent per ſe, nullúm<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Machaona quaerunt.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:168524:5"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</head>
+            <lg>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>In laudem, nec Operis, nec Authoris.</head>
+            <lg>
+               <l>FAllor? en haec ſolis non ſolùm grata Theatris?</l>
+               <l>(Eſſe putes ſolis quanquam dictata Theatris)</l>
+               <l>Magna ſed à ſacro veniet tibi gratia Templo,</l>
+               <l>Parve Liber; proles haut infitianda Parenti.</l>
+               <l>Plurimus hunc nactus Librum de-plebe-Sacerdos</l>
+               <l>(Copia Verborum cui ſit, non copia Rerum)</l>
+               <l>Materiae tantum petet hinc; quantum nec in uno</l>
+               <l>Promere Menſe poteſt: nec in uno for ſitan Anno.</l>
+               <l>Da qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mvis Textum; bal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>â de Naré locutus,</l>
+               <l>Protinùs exclamat (Nefanda piacula!) in urbe</l>
+               <l>(Pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dolor!) Impietas nuda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>â fronte vagatur!</l>
+               <l>Ecce librum Frat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es) Damnando Authore Poëta:</l>
+               <l>Pejo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Sol vidit, nec Vorſtius Ipſe</l>
+               <l>Haer ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> val<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t componere: Quippe Theatri</l>
+               <l>Mentitas l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quitu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laude<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ô Tempora!) laudet</l>
+               <l>Idem ſi potis eſt, Monar<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>um, Monac<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cucullum.</l>
+               <l>Sa<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Laud<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> unqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Nomé<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-ve Theatri</l>
+               <l>Repp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit in CANONE? <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us Stolidiſſime, Dogma</l>
+               <l>Non CANONEM ſapit hoc igitur, ſed Apocr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phon. Inde</l>
+               <l>(Lymphatum at<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onito pectus tundente Popello.</l>
+               <l>Et vacuum quaſſante eaput moeſtúmque <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>)</l>
+               <l>Sic multo raucùm croci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans ſudore perorat;</l>
+               <pb facs="tcp:168524:6"/>
+               <l> 
+                  <hi>Quod non dant Proceres dedit Hiſtrio:</hi> nempe benignam</l>
+               <l>Materiam Declamandi, plebêmque docendi.</l>
+               <l>Quis tamen hic Myſtes tragico qui Fulmina ab ore</l>
+               <l>Torquet? Num doctus? Certè Nam Metra Catonis</l>
+               <l>Quattuor edidicit, totidem qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que Commata Tullî.</l>
+               <l>Jejunámque cateche ſin piſtoribus aequè</l>
+               <l>Fartoribúſqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Piis ſcripſit. Liber <g ref="char:V">Ʋ</g>tilis his, Qui</l>
+               <l>Baptiſtam ſimulant vultu, Floralia vivunt:</l>
+               <l>
+                  <hi>Queiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Supercilio brevior coma.</hi> Sed venerandes</l>
+               <l>Graios. Hic Latióſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> patres exoſus ad unum eſt;</l>
+               <l>
+                  <hi>Et Canones damnans fit Ap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cryphus.</hi> 
+                  <g ref="char:V">Ʋ</g>ritur intùs.</l>
+               <l>Laudibus ACTORIS multùm mordetur. Ab illo</l>
+               <l>Laude ſuâ fraudatur enim Quis neſcit? <hi>Iniquum'ſt</hi>
+               </l>
+               <l>
+                  <hi>Praeter ſe Scripto laudetur</hi> 
+                  <note n="(a)" place="margin">Hypocrita propriè perſo<g ref="char:EOLhyphen"/>narum hiſtri<g ref="char:EOLhyphen"/>nem d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>notat.</note> 
+                  <hi>Hypocrita quiſquam.</hi>
+               </l>
+               <l>Fallor? an haec ſolis non ſolum grata Theatris?</l>
+            </lg>
+            <closer>
+               <signed>Anonymus, ſive Peſſimus omnium Poëta.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>To them that are oppoſite to this Work.</head>
+            <lg>
+               <l>CEaſe your detracting tongues, conteſt no more,</l>
+               <l>Leave off for ſhame to wound the Actors fame,</l>
+               <l>Seek rather their wrong'd credit to reſtore,</l>
+               <l>Your envy and detractions quite diſclaime:</l>
+               <l>You that have term'd their ſports laſcivious, vile,</l>
+               <l>Wiſhing good Princes would them all exile;</l>
+               <l>See here this queſtion to the full diſputed:</l>
+               <l>
+                  <hi>Heywood,</hi> hath you, and all your proofs confuted.</l>
+            </lg>
+            <lg>
+               <l>Wouldſt ſee an Emperour and his Councel grave,</l>
+               <l>A noble Souldier acted to the life,</l>
+               <l>A <hi>Roman</hi> Tyrant how he doth behave</l>
+               <l>Himſelf, at home, abroad, in peace, in ſtrife?</l>
+               <l>Wouldſt ſee what's love, what's hate, what's foule ex<g ref="char:EOLhyphen"/>ceſſe,</l>
+               <l>Or wouldſt a Traytor in his kinde expreſſe:</l>
+               <l>Our S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agyrites can (by the Poets pen)</l>
+               <l>Appear to you to be the ſelf ſame men.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:168524:6"/>
+               <l>What though a ſort for ſpight, or want of wit,</l>
+               <l>Hate what the beſt allow, the moſt forbear,</l>
+               <l>What exerciſe can you deſire more fit,</l>
+               <l>Than ſtately ſtratagems to ſee and hear.</l>
+            </lg>
+            <lg>
+               <l>What profit many may attain by playes,</l>
+               <l>To the moſt critick eye this book diſplaies.</l>
+               <l>Brave men, brave acts, being bravely acted too, <note place="margin">
+                     <hi>Vide pag.</hi> 5.</note>
+               </l>
+               <l>Makes, as men ſee things done, deſire to do.</l>
+            </lg>
+            <lg>
+               <l>And did it nothing but in pleaſing ſort,</l>
+               <l>Keep gallants from miſpending of their time,</l>
+               <l>It might ſuffice: yet here is noble ſport,</l>
+               <l>Acts well contriv'd, good Proſe, and ſtately time.</l>
+            </lg>
+            <lg>
+               <l>To call to Church, <hi>Campanus</hi> bels did make,</l>
+               <l>Playes, dice, and drink invite men to forſake:</l>
+               <l>Their uſe being good then uſe the Actors well,</l>
+               <l>Since ours all other Nations far excell:</l>
+            </lg>
+            <closer>
+               <signed>A. H.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To his beloved friend Maſter THOMAS HEYWOOD.</head>
+            <head type="sub">Suine ſuperbiam quaefitam meritis.</head>
+            <lg>
+               <l>I Cannot though you write in your own cauſe,</l>
+               <l>Say you deal partially; but muſt confeſſe,</l>
+               <l>(What moſt men will) you merit due applauſe;</l>
+               <l>So worthily your work becomes the Preſſe,</l>
+            </lg>
+            <lg>
+               <l>And well our actors, may approve your paines,</l>
+               <l>For you give them authority to play;</l>
+               <l>Even whilſt the hotteſt plag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of envy rai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</l>
+               <l>Nor for this wa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ant ſhall they dearly pay.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:168524:7"/>
+               <l>What a full ſtate of Poets have you cited,</l>
+               <l>To judge your cauſe? and to our equall view</l>
+               <l>Fair Monumental Theaters recited:</l>
+               <l>Whoſe ruins had been ruin'd but for you.</l>
+            </lg>
+            <lg>
+               <l>Such men who can in tune, both raile and ſing:</l>
+               <l>Shall viewing this either confeſſe 'tis good,</l>
+               <l>Or let their ignorance condemn the ſpring,</l>
+               <l>Becauſe 'tis merry and renews our bloud.</l>
+            </lg>
+            <lg>
+               <l>Be therefore your own judgment your defence,</l>
+               <l>Which ſhall approve you better than my praiſe,</l>
+               <l>Whilſt I in right of ſacred Innocence,</l>
+               <l>Durſt ore each guilded Tombe this known truth raiſe.</l>
+               <l>"Who dead would not be acted by their will,</l>
+               <l>"It ſeems ſuch men have acted their lives ill.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>By your friend,</hi> J. W.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To my very loving Friend and Fellow THOMAS HEYWOOD.</head>
+            <lg>
+               <l>THou that do'ſt raile at me for ſeeing a play,</l>
+               <l>How wouldſt thou have me ſpend my idle hours?</l>
+               <l>Wouldſt have me in a Tavern drink all day?</l>
+               <l>Melt in the Suns heat? or walke out in ſhowers?</l>
+            </lg>
+            <lg>
+               <l>Gape at the Lottery from morn till even,</l>
+               <l>To hear whoſe mottoes blanks have, and who priſes?</l>
+               <l>To hazzard all at dice (chance ſix or ſeven?)</l>
+               <l>To card? or bowled My humour this deſpiſes.</l>
+            </lg>
+            <lg>
+               <l>But thou wilt anſwer: None of theſe I need,</l>
+               <l>Yet my tir'd ſpirits muſt have recreation:</l>
+               <l>What ſhall I do that may retirement breed?</l>
+               <l>Or how refreſh my ſelf? and in what faſhion?</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:168524:7"/>
+               <l>To drabbe, to game, to drink, all theſe I hate:</l>
+               <l>Many enormous things depend on theſe,</l>
+               <l>My faculties truly to recreate</l>
+               <l>With modeſt mirth, and my ſelf beſt to pleaſe.</l>
+            </lg>
+            <lg>
+               <l>Give me a Play; that no diſtaſt can breed,</l>
+               <l>Prove thou a Spider, and from fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſuck gall,</l>
+               <l>Il'e like a Bee, take hony from a weed:</l>
+               <l>For I was never Puritanicall.</l>
+            </lg>
+            <lg>
+               <l>I love no publick ſoothers, private ſcorners,</l>
+               <l>That raile 'gainſt letchery, yet love a harlot.</l>
+               <l>When I drink, 'tis in fight, and not in corners:</l>
+               <l>I am no open Saint, and ſecret Varlet.</l>
+            </lg>
+            <lg>
+               <l>Still when I come to Playes, I love to ſit,</l>
+               <l>That all may ſee me, in a publick place:</l>
+               <l>Even in the Stages front, and not to get</l>
+               <l>Into a nook, and hood-wink there my face.</l>
+            </lg>
+            <lg>
+               <l>"This is the difference, ſuch would have men deem,</l>
+               <l>"Them what they are not: I am what I ſeem.</l>
+            </lg>
+            <closer>
+               <signed>R. P.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To my good friend and fellow, THOMAS HEYWOOD.</head>
+            <lg>
+               <l>LEt others task things honeſt: and to pleaſe</l>
+               <l>Some that pretend more ſtrictneſs than the reſt,</l>
+               <l>Exclaim on Playes: know, I am none of theſe</l>
+               <l>That in-ly love, what out-ly I deteſt.</l>
+               <l>Of all the modeſt paſtimes I can find,</l>
+               <l>To content me, of Playes I make beſt uſe,</l>
+               <l>As moſt agreeing with a generous mind.</l>
+               <l>There ſee I vertues crown, and ſins abuſe.</l>
+               <l>Two houres well ſpent, and all their paſtimes done,</l>
+               <l>Whats good I follow, and whats bad I ſhun.</l>
+            </lg>
+            <closer>
+               <signed>C. B.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:168524:8"/>
+            <head>To my good friend and fello THOMAS HEYWOOD</head>
+            <lg>
+               <l>HAve I not known a man that to be hir'd,</l>
+               <l>Would not for any treaſure ſee a play,</l>
+               <l>Reele from a Tavern? Shall this be admir'd?</l>
+               <l>When as another but the other day,</l>
+               <l>That held to wear a ſurpleſſe moſt unmeet,</l>
+               <l>Yet after ſtood at <hi>Pauls Croſſe</hi> in a ſheet.</l>
+            </lg>
+            <closer>
+               <signed>R. P.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To my approved good friend M<hi rend="sup">r</hi>. THOMAS HEYWOOD.</head>
+            <lg>
+               <l>OF thee, and thy <hi>Apology</hi> for playes</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f will not much ſpeak in contempt or praiſe:</l>
+               <l>Yet in theſe following lines Il'e ſhew my minde,</l>
+               <l>O Playes, and ſuch as have 'gainſt Playes repin'd.</l>
+               <l>A Play's a brief <hi>Epitome</hi> of time,</l>
+               <l>Where man may ſee his vertue or his crime</l>
+               <l>Laid open, either to their vices ſhame,</l>
+               <l>Or to their vertues memorable fame.</l>
+               <l>A Play's a true tranſparent Chriſtall mirror,</l>
+               <l>To ſhew good minds their mirth, the bad their terror:</l>
+               <l>Where ſtabbing, drabbing, dicing, drinking, ſwearing</l>
+               <l>Are all proclaim'd unto the ſight and hearing,</l>
+               <l>In ugly ſhapes of Heaven-abhorred ſinne,</l>
+               <l>Where men may ſee the mire they wallow in.</l>
+               <l>And well I know <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t makes the Divell rage,</l>
+               <l>To ſee his ſervants flouted on a ſtage.</l>
+               <l>A Who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, a Thief, a Pander, or a Bawd,</l>
+               <l>A Broker, or a ſlave that lives by fraud:</l>
+               <pb facs="tcp:168524:8"/>
+               <l> An Uſurer, whoſe ſoul is in his cheſt,</l>
+               <l>Untill in hell it comes to reſtleſſe reſt.</l>
+               <l>A Fly-blown gull, that fain would be a Gallant,</l>
+               <l>A Raggamuffin that hath ſpent his Tallent.</l>
+               <l>A ſel-wiſe fool, that ſees his wits out-ſtript,</l>
+               <l>Or any vice that feels it ſelf but nipt,</l>
+               <l>Either in Tragedy or Comedy,</l>
+               <l>In Morall, Paſtorall, or Hiſtory:</l>
+               <l>But ſtraight the poyſon of their envious tongues,</l>
+               <l>Breaks out in volleys of Calumnious wrongs.</l>
+               <l>And then a Tinker, or a Dray-man ſwears,</l>
+               <l>I would the houſe were fir'd about their ears.</l>
+               <l>Thus when a Play-nips Sathan by the noſe,</l>
+               <l>Streight all his vaſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are the Actors foes.</l>
+               <l>But fear not man, let envy ſwell and burſt,</l>
+               <l>Proceed, and bid the Devill do his worſt.</l>
+               <l>For Playes are good or bad, as they are us'd,</l>
+               <l>And beſt inventions often are abus'd.</l>
+            </lg>
+            <closer>
+               <signed>Yours ever <hi>J. T.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>The Author to his Booke.</head>
+            <lg>
+               <l>THe World's a Theater, the earth a Stage,</l>
+               <l>Which God and Nature <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th with Actors fill, <note place="margin">So compared by the Fathers.</note>
+               </l>
+               <l>Kings have their entrance in due equipage,</l>
+               <l>And ſome their part play well and others ill.</l>
+               <l>The beſt no better are (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this Theater,)</l>
+               <l>Where every humour's fitted in his kinde,</l>
+               <l>This a true Subject acts, and that a Traytor,</l>
+               <l>The firſt applauded, and the laſt confin'd,</l>
+               <l>This playes an honeſt man, and that a knave</l>
+               <pb facs="tcp:168524:9"/>
+               <l> A gentle perſon this, and he a clown</l>
+               <l>One man is ragged, and another brave:</l>
+               <l>All men have parts, and each man acts his own.</l>
+               <l>She a chaſt Lady acteth all her life,</l>
+               <l>A wanton Curtezan another playes,</l>
+               <l>This, covets marriage love, that, nuptial ſtrife,</l>
+               <l>Both in continuall action ſpend their dayes.</l>
+               <l>Some Citizens, ſome Souldiers, born to adventure,</l>
+               <l>Shepheards and Sea-men; then our play's begun,</l>
+               <l>When we are born and to the world firſt enter;</l>
+               <l>And all finde <hi>Exits</hi> when their parts are done.</l>
+               <l>If then the world a Theater preſent,</l>
+               <l>As by the roundneſſe it appears moſt fit,</l>
+               <l>Built with ſtar-galleries of high aſcent,</l>
+               <l>In which <hi>Jehove</hi> doth as ſpectator ſit,</l>
+               <l>And chief determiner to applaud the beſt,</l>
+               <l>And their indeavours crown with more than merit.</l>
+               <l>But by their evill actions doomes the reſt,</l>
+               <l>To end diſgrac't whilſt others praiſe inherit.</l>
+               <l>He that denies then theaters ſhould be,</l>
+               <l>He may as well deny a world to me.</l>
+            </lg>
+            <closer>
+               <signed>Thomas Heywood.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168524:9"/>
+            <div n="1" type="book">
+               <head>The Actors Vindication, and firſt touching their <hi>ANTIQUITY.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">M</seg>OVED by the ſundry exclamations of many ſeditious Sectiſts in this age, who, in the fatneſs and rankneſs of a peacable Commonwealth, grow up like unſavoury tuffs of graſſe, w<hi rend="sup">ch</hi>, though outwardly green and freſh to the eye, yet are they both unpleaſant and unprofitable, being too ſower for food, and too rank for fodder: Theſe men like the an<g ref="char:EOLhyphen"/>tient Germans, affecting no faſhion but their own, would draw other nations to be ſlovens like themſelves, and undertaking to purifie and reform the ſacred bodies of the Church and Common-weale (In the true uſe of both which they are altogether Ignorant) would but like art<g ref="char:EOLhyphen"/>leſſe Phiſitians, for experiment ſake, rather miniſter pil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to poiſon the whole body, than cordials to preſerve any or the leaſt part. Amongſt many other things tolerated in this peaceable and flouriſhing State, it hath pleaſed the high and mighty Princes of this Land to limit the uſe of certain publick Theaters, which ſince many of theſe o<g ref="char:EOLhyphen"/>ver-curious heads have laviſhy and violently ſlandered, I hold it not amiſſe to lay open ſome few Antiquities to ap<g ref="char:EOLhyphen"/>prove the true uſe of them, with arguments, not of the leaſt moment, w<hi rend="sup">ch</hi> according to the weakneſs of my ſpirit &amp; infancy of my judgment, I will (by Gods grace) commit
+<pb n="2" facs="tcp:168524:10"/> to the eyes of all favorable and judiciall Readers, as well to ſatisfie the requeſts of ſome of our well qualified fa<g ref="char:EOLhyphen"/>vourers, as to ſtop the envious acclamations of thoſe who chalenge to themſelves a priviledge Invective, &amp; againſt all free eſtates a railing liberty: Loath am I (I proteſt) be<g ref="char:EOLhyphen"/>ing the youngeſt and weakeſt of the Neſt wherein I was hatcht, to ſoar this pitch before others of the ſame brood more fleg, &amp; of better wing than my ſelf: but though they whom more eſpecially this taske concerns, both for their ability in writing &amp; ſufficiencie in judgement (as their works generally witneſs to the world:) are content to over-ſlip ſo neceſſary a ſubject, and have left it as to me, the moſt unworthy: I thought it better to ſtammer out my mind, that not to ſpeak at all; to ſcribble down a mark in the ſtead of writing a name, &amp; to ſtumble on the way, ra<g ref="char:EOLhyphen"/>ther than to ſtand ſtill and not to proceed on ſo neceſſary a Journey. <hi>Nox erat, &amp; ſomnus laſſos ſubmiſit ocellos.</hi>
+               </p>
+               <p>It was about that time of the night when darkneſs had already overſpread the world, and a huſht &amp; generall ſi<g ref="char:EOLhyphen"/>lence poſſeſt the face of the earth, &amp; mens bodyes tyred with the buſineſſe of the day, betaking themſelves to their beſt repoſe, their never-ſleeping ſouls laboured in uncouth dreames and viſions, when ſuddenly appeared to me the tragick Muſe <hi>Melpomene.</hi>
+               </p>
+               <lg>
+                  <l>—animoſa Tragedia.</l>
+                  <l>—&amp; movit pictis immixa Cothurnis</l>
+                  <l>Denſum Ceſarie, terque quater que Caput:</l>
+               </lg>
+               <p>Her haire rudely diſheveled, her chaplet withered, her viſage with tears ſtained, her brow furrowed, her eyes de<g ref="char:EOLhyphen"/>jected, nay her whole complexion quite faded and alte<g ref="char:EOLhyphen"/>red: and peruſing her habit, I might behold the colour of her freſh robe all Crimſon, breathed, and with the inve<g ref="char:EOLhyphen"/>nomed juice of ſome prophane ſpilt ink in every place ſtained: nay more, her busken of all the wonted Jewels &amp; ornaments utterly deſpoyled, about which in manner of a garter I might behold theſe letters written in a plaine &amp; large Character.</p>
+               <pb n="3" facs="tcp:168524:10"/>
+               <lg>
+                  <l>Behold my Tragick Buskin rent and torn,</l>
+                  <l>Which Kings and Emperours in their times have worne,</l>
+               </lg>
+               <p>This I no ſooner had perus'd, but ſuddenly I might perceive the inraged Muſe, caſt up her ſcornfull head: her eye-bals ſparkle fire, and a ſuddain flaſh of diſdaine, in<g ref="char:EOLhyphen"/>termixt with rage, purple her cheek, When pacing with a majeſtick gate &amp; rowſing up her freſh ſpirits with a lively and quaint action, ſhe began in theſe or the like words.</p>
+               <lg>
+                  <l>Grande ſonant tragici, tragicos decet Ira Cothurnos.</l>
+                  <l>
+                     <hi>Am I Melpomene the buskend Muſe,</hi>
+                  </l>
+                  <l>
+                     <hi>That held in awe the tyrants of the world,</hi>
+                  </l>
+                  <l>
+                     <hi>And plaid their lives in publick Theaters,</hi>
+                  </l>
+                  <l>
+                     <hi>Making them feare to ſinne, ſince fearleſs I</hi>
+                  </l>
+                  <l>
+                     <hi>Prepare to write their lives in Crimſon Inke,</hi>
+                  </l>
+                  <l>
+                     <hi>And act their ſhames in eye of all the world?</hi>
+                  </l>
+                  <l>
+                     <hi>Have not I whipt Vice with a ſcourge of ſteele,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nmaskt ſterne Murther; ſham'd laſcivious Luſt.</hi>
+                  </l>
+                  <l>
+                     <hi>Pluck'd off the viſar from grimme Treaſons face,</hi>
+                  </l>
+                  <l>
+                     <hi>And made the Sun point at their ugly ſinns?</hi>
+                  </l>
+                  <l>
+                     <hi>Hath not this powerfull hand tam'd fiery Rage,</hi>
+                  </l>
+                  <l>
+                     <hi>Kild poiſonous Envy with her own keen darts,</hi>
+                  </l>
+                  <l>
+                     <hi>Choak't up the Covetous mouth with moulten gold,</hi>
+                  </l>
+                  <l>
+                     <hi>Burſt the vaſt womb of eating Gluttony,</hi>
+                  </l>
+                  <l>
+                     <hi>And drownd the Drunkards gall in juice of grapes?</hi>
+                  </l>
+                  <l>
+                     <hi>I have ſhew'd pride his picture on a ſtage,</hi>
+                  </l>
+                  <l>
+                     <hi>Laid ope the ugly ſhapes his ſteel-glaſſe hide,</hi>
+                  </l>
+                  <l>
+                     <hi>And made him paſſe thence meekly: In thoſe daies</hi>
+                  </l>
+                  <l>
+                     <hi>When Emperours with their preſence grac't my Scenes,</hi>
+                  </l>
+                  <l>
+                     <hi>And thought none worthy to preſent themſelves</hi>
+                  </l>
+                  <l>
+                     <hi>Save Emperours, to delight Embaſſadours,</hi>
+                  </l>
+                  <l>
+                     <hi>Then did this garland flouriſh, then my Robe</hi>
+                  </l>
+                  <l>
+                     <hi>Was of the deepeſt Crimſon, the beſt die:</hi>
+                  </l>
+                  <l>Cura Ducum fuerant olim regumque poetae,</l>
+               </lg>
+               <lg>
+                  <l>Praemiaque Antiqui magna tulere Chori</l>
+                  <l>
+                     <hi>Who ledge then in the boſome of great Kings.</hi>
+                  </l>
+                  <pb n="4" facs="tcp:168524:11"/>
+                  <l> 
+                     <hi>Save he that had a grave Cothurnate Muſe.</hi>
+                  </l>
+                  <l>
+                     <hi>A ſtately verſe in an Iambick ſtile</hi>
+                  </l>
+                  <l>
+                     <hi>Became a Keſars mouth. Oh theſe were times</hi>
+                  </l>
+                  <l>
+                     <hi>Fit for your Bards to vent your golden Rimes.</hi>
+                  </l>
+                  <l>
+                     <hi>Then did I tread on Arras, Cloth of Tiſſue,</hi>
+                  </l>
+                  <l>
+                     <hi>Hung round the fore-front of my ſtage: the pillers</hi>
+                  </l>
+                  <l>
+                     <hi>That did ſupport the Roofe of my large frame.</hi>
+                  </l>
+                  <l>
+                     <hi>Double apparreld in pure Ophir gold:</hi>
+                  </l>
+                  <l>
+                     <hi>Whilſt the round Circle of my ſpacious orb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Was throng'd with Princes, Dukes and Senators.</hi>
+                  </l>
+                  <l>Nunc Hederae ſine Honore jacent.</l>
+                  <l>
+                     <hi>But now's the Iron age, and black mouth'd Curres,</hi>
+                  </l>
+                  <l>
+                     <hi>Barke at the vertues of the former world.</hi>
+                  </l>
+                  <l>
+                     <hi>Such with their breath have blaſted my freſh roabe,</hi>
+                  </l>
+                  <l>
+                     <hi>Pluckt at my flowry Chaplet, towſd my treſſes.</hi>
+                  </l>
+                  <l>
+                     <hi>Nay ſome whom for their baſeneſſe hiſt and skorn'd</hi>
+                  </l>
+                  <l>
+                     <hi>The Stage, as loathſom, hath long-ſince ſpued out,</hi>
+                  </l>
+                  <l>
+                     <hi>Have watcht their time to caſt invenom'd Inke</hi>
+                  </l>
+                  <l>
+                     <hi>To ſtaine my garments with. Oh</hi> Seneca</l>
+                  <l>
+                     <hi>Thou tragick Poet, hadſt thou liv'd to ſee</hi>
+                  </l>
+                  <l>
+                     <hi>This outrage done to ſad</hi> Melpomene,</l>
+                  <l>
+                     <hi>With ſuch ſharpe lines thou wouldſt revenge my blot,</hi>
+                  </l>
+                  <l>
+                     <hi>As Armed</hi> Ovid <hi>againſt</hi> Ibis <hi>wrot.</hi>
+                  </l>
+               </lg>
+               <p>With that in rage ſhe left the place, &amp; I my dream, for at the inſtant I awaked, when having peruſed this viſion o<g ref="char:EOLhyphen"/>ver and over again in my remembrance, I ſuddenly be<g ref="char:EOLhyphen"/>thought me, How many antient Poets, Tragick and Co<g ref="char:EOLhyphen"/>mick, dying many ages ago live ſtill amongſt us in their works, as amongſt the <hi>Greeks, Euripides: Menander, So<g ref="char:EOLhyphen"/>phocles, Eupolis, Eſchilus, Ariſtophanes, Appollodorus, Anaxan<g ref="char:EOLhyphen"/>drides, Nichomachus, Alexis, Tereus</hi> and others, ſo among the Latins: <hi>Attilius, Actius, Melithus, Plautus, Terence,</hi> and others whom for brevity ſake I omit.</p>
+               <lg>
+                  <l>Hos Ediſcit &amp; hos arcto ſtipata Theatro</l>
+                  <l>Spectat Roma potens, habet hos, numeratque Poetas.</l>
+                  <l>Theſe potent Rome acquires and holdeth dear,</l>
+                  <pb n="5" facs="tcp:168524:11"/>
+                  <l> And in their round Theaters flocks to hear:</l>
+               </lg>
+               <p>Theſe or any of theſe had they lived in the afternoon of the world, as they died even in the morning, I aſſure my ſelf would have left more memorable trophies of that learned Muſe, whom in their golden numbers they ſo rich<g ref="char:EOLhyphen"/>ly adorned. And amongſt our moderne poets, who have bin induſtrious in many an elaborate &amp; ingenious poem, even they whoſe pens have had the greateſt traffick with the Stage, have been in the excuſe of theſe Muſes moſt for<g ref="char:EOLhyphen"/>getful. But leaving theſe, leſt I make too large a head to a ſmall body, and ſo miſhape my ſubject, I will begin with the antiquity of Acting Comedies, Tragedies, and Hiſto<g ref="char:EOLhyphen"/>ries. And firſt in the golden world.</p>
+               <p>In the firſt of the <hi>Olimpiads,</hi> amongſt many other active exerciſes in which <hi>Hercules</hi> ever trimph'd as victor, there was in his nonage preſented unto him by his Tutor, in the faſhion of a Hiſtory, acted by the choiſe of the nobility of Greece, the worthy &amp; and memorable acts of his father <hi>Jupiter.</hi> Which being perſonated with lively &amp; wel ſpiri<g ref="char:EOLhyphen"/>ted action, wrought ſuch impreſſion in his noble thoughts that in meer emulation of his fathers valor (not at the be<g ref="char:EOLhyphen"/>heſt of his Stepdame <hi>Juno)</hi> he perform'd his twelve labors: Him valiant <hi>Theſeus</hi> followed, and <hi>Achilles, Theſeus.</hi> Which bred in them ſuch haughty &amp; magnanimous attempts, that every ſucceeding age hath recorded their worths, unto freſh admiration. <hi>Ariſtotle</hi> that Prince of Philoſophers, whoſe books carry ſuch credit, even in theſe our Univer<g ref="char:EOLhyphen"/>ſities, that to ſay <hi>Ipſe dixit</hi> is a ſufficient <hi>Axioma,</hi> he having the tuition of young <hi>Alexander,</hi> cauſed the deſtruction of Troy to be acted before his pupill, in which the valor of <hi>Achilles</hi> was ſo naturally expreſt, that it impreſt the heart of <hi>Alexander,</hi> inſomuch that all his ſucceeding actions were meerly ſhaped after that pattern, and it may be i<g ref="char:EOLhyphen"/>magined had <hi>Achilles</hi> never lived, <hi>Alexander</hi> had never conquered the whole world. The like aſſertion may be made of that ever renowned Roman <hi>Julius Caeſar.</hi> Who
+<pb n="6" facs="tcp:168524:12"/> after the like repreſentation of <hi>Alexander</hi> in the Temple of <hi>Hercules</hi> ſtanding in Gades was never in any peace of thoughts, till by his memorable exployts, he had purcha<g ref="char:EOLhyphen"/>ſed to himſelf the name of <hi>Alexander:</hi> as <hi>Alexander</hi> till he thought himſelf of deſert to be called <hi>Achilles: Achilles The<g ref="char:EOLhyphen"/>ſeus, Theſeus</hi> till he had ſufficiently imitated the acts of <hi>Hercules,</hi> and <hi>Hercules</hi> till he held himſelf worthy to be called the ſon of <hi>Jupiter.</hi> Why ſhould not the lives of theſe worthies, preſented in theſe our dayes, effect the like won<g ref="char:EOLhyphen"/>ders in the Princes of our times, which can no way be ſo exquiſitly demonſtrated, nor ſo lively pourtrayed as by action: Oratory is a kind of a ſpeaking picture, therefore may ſome ſay, is it not ſufficient to diſcourſe to the ears of Princes the fame of theſe conquerors: Painting likewiſe is a dumb oratory, therefore may we not as well by ſome curious <hi>Pigmalion,</hi> draw their conqueſts to work the like love in Princes towards theſe Worthies by ſhewing them their pictures drawn to the life, as it wrought on the poor painter to be inamored of his own ſhadow? I anſwer this,</p>
+               <lg>
+                  <l>Non magis expreſſi vultus per ahenia ſigna</l>
+                  <l>Quam per vatis opus, mores animique virorum</l>
+                  <l>Clarorum apparent.—</l>
+                  <l>The viſage is no better cut in braſſe,</l>
+                  <l>Nor can the Carver ſo expreſſe the face</l>
+                  <l>As doth the Poets pen, whoſe arts ſurpaſſe,</l>
+                  <l>To give mens lives and vertues their due grace.</l>
+               </lg>
+               <p>A Deſcription is only a ſhadow received by the ear, but not perceived by the eye, ſo lively pourtrature is meerly a forme ſeen by the eye but can neither ſhew action, paſſi<g ref="char:EOLhyphen"/>on, motion, or any other geſture, to move the ſpirits of the beholder to admiration: but to ſee a ſouldier ſhap'd like a ſouldier, walk, ſpeak, act like a ſouldier: to ſee a <hi>Hector</hi> all beſmer'd in bloud, trampling upon the bulks of Kings. A <hi>Troilus</hi> returning from the field in the fight of his father <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riam,</hi> as if man and horſe even from the ſteeds rough fet<g ref="char:EOLhyphen"/>locks to the plume in the champions helmet had been
+<pb n="7" facs="tcp:168524:12"/> together plunged into a purple Ocean: To ſee a <hi>Pompey</hi> ride in triumph, then a <hi>Ceſar</hi> conquer that <hi>Pompey:</hi> labou<g ref="char:EOLhyphen"/>ring <hi>Hanniball</hi> alive, hewing his paſſage through the Alpes. To ſee as I have ſeen, <hi>Hercules</hi> in his own ſhape hunting the Boare, knocking down the Bull, taming the Hart, fighting with Hydra, murdering <hi>Gerion,</hi> ſlaughte<g ref="char:EOLhyphen"/>ring <hi>Diomed,</hi> wounding the <hi>Stimphalides,</hi> killing the Cen<g ref="char:EOLhyphen"/>taurs, quaſhing the Lion, ſqueeſing the Dragon, dragging <hi>Cerberus</hi> in Chains, &amp; laſtly, on his high Pyramides wri<g ref="char:EOLhyphen"/>ting <hi>Nil ultra,</hi> Oh theſe were ſights to make an <hi>Alexander.</hi>
+               </p>
+               <p>To turn to our domeſtick hiſtories, what Engliſh blood ſeeing the perſon of any bold Engliſhman preſented and doth not hug his fame, and hunney at his valor, perſuing him in his enterpriſe with his beſt wiſhes, &amp; as being wrapt in contemplation, offers to him in his heart all proſper<g ref="char:EOLhyphen"/>ous performance, as if the Perſonater were the man Per<g ref="char:EOLhyphen"/>ſonated, ſo bewitching a thing is lively and well ſpirited action, that it hath power to new mould the hearts of the ſpectators and faſhion them to the ſhape of any noble &amp; notable attempt. What coward to ſee his countryman va<g ref="char:EOLhyphen"/>liant would not be aſhamed of his own cowardiſe? What Engliſh Prince ſhould he behold the true pourtraiture of that amorous King <hi>Edward</hi> the third, foraging <hi>France,</hi> ta<g ref="char:EOLhyphen"/>king ſo great a King captive in his own country, quarter<g ref="char:EOLhyphen"/>ing the Engliſh Lyons with the French Flower-delyce, and would not be ſuddenly Inflam'd with ſo royall a ſpectacle, being made apt &amp; fit for the like atchievement. So of <hi>Henry</hi> the fifth: but not to be tedious in any thing. <hi>Ovid</hi> in one of his poems holds this opinion, that <hi>Romulus</hi> was the firſt that brought plaies into <hi>Italy,</hi> which he thus ſets down</p>
+               <lg>
+                  <l>
+                     <hi>Primus ſollicitos feciſti Romule Ludos.</hi>
+                  </l>
+                  <l>
+                     <hi>Cum jurit viduos rapta Sabina viros</hi>
+                  </l>
+                  <l>
+                     <hi>Tunc neque marmoreo pendebant vela Theatro, &amp;c.</hi>
+                  </l>
+                  <l>
+                     <hi>Which we Engliſh thus.</hi>
+                  </l>
+                  <l>
+                     <hi>Thou noble</hi> Romulus <hi>firſt playes contrives,</hi>
+                  </l>
+                  <l>
+                     <hi>To get thy widdowed ſouldiers</hi> Sabine <hi>wives.</hi>
+                  </l>
+                  <pb n="8" facs="tcp:168524:13"/>
+                  <l> 
+                     <hi>In thoſe dayes from the marble houſe did wave</hi>
+                  </l>
+                  <l>
+                     <hi>No ſaile, no ſilken flag, or enſigne brave.</hi>
+                  </l>
+                  <l>
+                     <hi>Then was the Tragick ſtage not painted red,</hi>
+                  </l>
+                  <l>
+                     <hi>Or any mixed ſtaines on pillers ſpred,</hi>
+                  </l>
+                  <l>
+                     <hi>Then did the Sceane want art, th' unready Stage</hi>
+                  </l>
+                  <l>
+                     <hi>Was made of graſſe and earth in that rude age:</hi>
+                  </l>
+                  <l>
+                     <hi>About the which were thick leav'd branches placed,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor did the Audients hold themſelves diſgraced,</hi>
+                  </l>
+                  <l>
+                     <hi>Of turf and heathy ſods to make their ſeats,</hi>
+                  </l>
+                  <l>
+                     <hi>Fram'd in degrees of earths and moſſy peats.</hi>
+                  </l>
+                  <l>
+                     <hi>Thus plac'd in order, every Roman pry'd</hi>
+                  </l>
+                  <l>
+                     <hi>Into her face that ſat next by his ſide;</hi>
+                  </l>
+                  <l>
+                     <hi>And cloſing with her, ſeverally gan move,</hi>
+                  </l>
+                  <l>
+                     <hi>The innocent Sabine women to their love:</hi>
+                  </l>
+                  <l>
+                     <hi>And whil'ſt the piper</hi> Thuſcus <hi>rudely plaid,</hi>
+                  </l>
+                  <l>
+                     <hi>And by thrice ſtamping with his foot had made</hi>
+                  </l>
+                  <l>
+                     <hi>A ſigne unto the reſt, there was a ſhout,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe ſhrill report peirc'd all the aire about.</hi>
+                  </l>
+                  <l>
+                     <hi>Now at a ſigne of rape given from the King,</hi>
+                  </l>
+                  <l>
+                     <hi>Round through the houſe the luſty Romans fling,</hi>
+                  </l>
+                  <l>
+                     <hi>Leaving no corner of the ſame unſought,</hi>
+                  </l>
+                  <l>
+                     <hi>Till every one a frighted virgin caught.</hi>
+                  </l>
+                  <l>
+                     <hi>Look as the trembling Dove the Eagle flyes,</hi>
+                  </l>
+                  <l>
+                     <hi>Or a young Lamb when he the Woolf eſpies;</hi>
+                  </l>
+                  <l>
+                     <hi>So ran the poor girles, filling th' aire with skreeks,</hi>
+                  </l>
+                  <l>
+                     <hi>Emptying of all the colour their pale cheeks.</hi>
+                  </l>
+                  <l>
+                     <hi>One fear poſſeſt them all, but not one look,</hi>
+                  </l>
+                  <l>
+                     <hi>This tears her haire, ſhe hath her wits forſook,</hi>
+                  </l>
+                  <l>
+                     <hi>Some ſadly ſit, ſome at their mothers call,</hi>
+                  </l>
+                  <l>
+                     <hi>Some chaſe, ſome fly, ſome ſtay, but frighted all.</hi>
+                  </l>
+                  <l>
+                     <hi>Thus were the raviſh'd Sabines bluſhing led</hi>
+                  </l>
+                  <l>
+                     <hi>(Becomming ſhame) unto each Romans bed.</hi>
+                  </l>
+                  <l>
+                     <hi>If any ſtriv'd againſt it, ſtreight her man</hi>
+                  </l>
+                  <l>
+                     <hi>Would take her on his knee (whom fear made wan)</hi>
+                  </l>
+                  <l>
+                     <hi>And ſay; Why weep'ſt thou ſweet? what ailes my dear?</hi>
+                  </l>
+                  <l>
+                     <hi>Dry up theſe drops, theſe clouds of ſorrow clear,</hi>
+                  </l>
+                  <pb n="9" facs="tcp:168524:13"/>
+                  <l> 
+                     <hi>Il'e be to thee if thou thy grief wilt ſmother,</hi>
+                  </l>
+                  <l>
+                     <hi>Such as thy Father was unto thy Mother.</hi>
+                  </l>
+                  <l>
+                     <hi>Full well could</hi> Romulus <hi>his Souldiers pleaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>To give them ſuch fair Miſtreſſes as theſe.</hi>
+                  </l>
+                  <l>
+                     <hi>If ſuch rich wages thou wilt give to me,</hi>
+                  </l>
+                  <l>
+                     <hi>Great</hi> Romulus, <hi>thy Souldier, I will be.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Romulus</hi> having erected the walls of <hi>Rome,</hi> and leading under him a warlike Nation, being in continuall warre with the <hi>Sabines,</hi> after the choyce ſelecting of a place, fit for ſo famous a City, and not knowing how to people the ſame, his train wholly conſiſting of Souldiers, who with<g ref="char:EOLhyphen"/>out the company of women (they not having any in their Army) could not multiply; but ſo were likely that their immortal fames ſhould dye iſſuleſs with their mortal bo<g ref="char:EOLhyphen"/>dies Thus therefore <hi>Romulus</hi> deviſed; After a p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rle and at<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nement made with the neighbour Nations, he built a Theater, plain, according to the time; yet large, fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the entertainment of ſo great an Aſſembly, and theſe were they whoſe famous iſſue peopled the City of <hi>Rome,</hi> which in after-ages grew to ſuch height, that not <hi>Troy</hi> founded by <hi>Dardanus, Carthage</hi> layed by <hi>Dido, Tyrus</hi> built by <hi>Age<g ref="char:EOLhyphen"/>nor, Memphis</hi> made by <hi>Ogdous, Thebes</hi> ſeated by <hi>Cadmus,</hi> nor <hi>Babylon</hi> reared by <hi>Semiramis,</hi> were any way equall to this ſituation grounded by <hi>Romulus:</hi> To which all the diſcovered Kingdomes of the earth after became tributa<g ref="char:EOLhyphen"/>ries. And in the noon-tide of their glory, and height of all their honour, they edified Theaters, and Amphi-thea<g ref="char:EOLhyphen"/>ters: For in their flouriſhing Commonweal, their publick <hi>Comedians</hi> and <hi>Tragedians</hi> moſt flouriſhed, inſomuch that the Tragick and Comick Poets, were all generally admi<g ref="char:EOLhyphen"/>red of the people, and particularly every man of his pri<g ref="char:EOLhyphen"/>vate <hi>Mecenas.</hi> 
+                  <note place="margin">Imperante Au<g ref="char:EOLhyphen"/>guſto, natus eſt Chriſtus, Imperante Ti<g ref="char:EOLhyphen"/>berio crucifix<g ref="char:EOLhyphen"/>us.</note>
+               </p>
+               <p>In the Reigne of <hi>Auguſtus</hi> Chriſt was borne, and as well in his dayes as before his birth, theſe ſolemnities were held in the greateſt eſtimation. In <hi>Julius Caeſar</hi>'s time, predeceſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur to <hi>Auguſtus,</hi> the famous hony-tongu'd Orator <hi>Cicero</hi>
+                  <pb n="10" facs="tcp:168524:14"/> flouriſhed; who, amongſt many other his eloquent Orati<g ref="char:EOLhyphen"/>ons, writ certain yet extant, for the <hi>Comedian Roſcius (pro Roſcio Comoedo)</hi> of whom we ſhall ſpeak more large here<g ref="char:EOLhyphen"/>after. Theſe continued in their honour till the reigne of <hi>Tiberius Caeſar,</hi> and under <hi>Tiberius</hi> Chriſt was crucified. To this end do I uſe this aſſertion, becauſe in the full &amp; per<g ref="char:EOLhyphen"/>fect time our Saviour ſojourned on the earth, even in thoſe happy and peacefull dayes the ſpacious Theaters were in the greateſt opinion amongſt the Romans; yet, neither Chriſt himſelf, nor any of his ſanctified Apoſtles, in any of their Sermons, Acts, or Documents, ſo much as named them, or upon any abuſive occaſion, touched them. There<g ref="char:EOLhyphen"/>fore hence (me thinkes) a very probable and important ar<g ref="char:EOLhyphen"/>gument may be grounded, that ſince they, in their divine wiſedomes, knew all the ſinnes abounding in the world before that time, tax &amp; reproved all the abuſes reigning in that time, and foreſaw all the actions and inconvenien<g ref="char:EOLhyphen"/>ces (to the Church prejudiciall) in the time to come; Since they (I ſay) in all their holy doctrines, books, and prin<g ref="char:EOLhyphen"/>ciples of divinity, were content to paſſe them over, as things tolerated, and indifferent, why ſhould any nice &amp; over ſcrupulous head<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſince they cannot ground their curiouſneſſe either upon the old or new Teſtament, take upon them to correct, controule, &amp; carpe at that, againſt which they cannot finde any text in the ſacred Scriptures?</p>
+               <p>In the time of <hi>Nero Caeſar,</hi> the Apoſtle <hi>Paul</hi> was perſe<g ref="char:EOLhyphen"/>cuted and ſuffered, <hi>Nero</hi> was then Emperour, <hi>Paul</hi> writ his Epiſtle to the Romans, and at the ſame time did the Theaters moſt flouriſh amongſt the Romans; yet where can we quote any place in his Epiſtles, which ſo bids the Church of God, then reſident in <hi>Rome,</hi> to abſent them ſelves from any ſuch aſſemblies.</p>
+               <p>To ſpeak my opinion with all indifferency, God hath not enjoyned us to wear all our apparrel ſolely to defend the cold. Some garments we weare for warmth, others for ornament, So did the children of Iſrael hang ear-rings in
+<pb n="11" facs="tcp:168524:14"/> their ears, nor was it by the law forbidden them. That purity is not look't for at our hands, being morall and humane, that is required of the Angels, being celeſtiall and divine. God made us of earth, men; knows our natures, diſpoſitions and imperfections, and therefore hath limi<g ref="char:EOLhyphen"/>ted us a time to rejoyce, as he hath enjoyned us a time to mourne for our tranſgreſſions; and I hold them more ſcrupulous than well adviſed, that go about to take from us the uſe of all moderate recreations. Why hath God ordained for man, variety of meats, dainties and delicates, if not to taſte thereon? why doth the world yield choice of honeſt paſtimes, if not decently to uſe them? Was not the Hare made to be hunted; the Stagg to be chaſed; and ſo of all other beaſts of game in their ſeverall kinds; ſince God hath provided us of theſe paſtimes, why may we not uſe them to his glory? Now if you ask me why were not the Theaters as gorgeouſly built in all other Cities of <hi>Italy</hi> as <hi>Rome?</hi> And why are not Play-houſes maintained as well in other Cities of <hi>England,</hi> as <hi>London?</hi> my anſwer is: It is not meet every mean Eſquire ſhould carry the part belonging to one of the Nobility, or for a Noble man to uſurpe the eſtate of a Prince: <hi>Rome</hi> was a <hi>Metropolis,</hi> a place whither all the nations known under the Sunne, reſorted, ſo is <hi>London,</hi> and being to receive all Eſtates, all Princes, all Nations, therefore to afford them all choyce of pa<g ref="char:EOLhyphen"/>ſtimes, ſports, and recreations: yet were their Theaters in all the greateſt Cities of the world, as we will more largely particularize hereafter.</p>
+               <p>I never yet could read any Hiſtory of any Common<g ref="char:EOLhyphen"/>weale which did not thrive and proſper whilſt theſe pub<g ref="char:EOLhyphen"/>like ſolemnities were held in adoratio<g ref="char:cmbAbbrStroke">̄</g>. Oh but (ſay ſome) <hi>Marcus Aurelius</hi> baniſht all ſuch triviall exerciſes beyond the confines of <hi>Italy.</hi> Indeed this Emperour was a Philoſo<g ref="char:EOLhyphen"/>pher of the ſect of <hi>Diogenes,</hi> a Cinick, &amp; whether the hand of <hi>Diogenes</hi> would become a ſcepter, or a root better, I leave to your judgments. This <hi>Aurelius</hi> was a great and
+<pb n="12" facs="tcp:168524:15"/> ſharp reprover, who becauſe the Matrons and Ladies of <hi>Rome,</hi> in ſcorn of his perſon made a Play of him; in his time interdicted the uſe of their Theaters. So, becauſe his wife <hi>Fauſtine</hi> plaid falſe with him, he generally exclaimed againſt all women: Becauſe himſelf could not touch an Inſtrument, he baniſht all the Muſitians in <hi>Rome,</hi> and being a meer coward, put all the Gladiators &amp; ſword-players into exile. And leſt his own ſuſpected life ſhould be again acted by the Comedians, as it before had been by the no<g ref="char:EOLhyphen"/>ble Matrons, he profeſt himſelfe adverſary to all of that quality ſo ſevere a reformation of the weal publik he us'd, reſtraining the Citizens of their free liberties, which till his days was not ſeen in <hi>Rome;</hi> but what profited this the weal publick? do but peruſe the ancient Roman Chroni<g ref="char:EOLhyphen"/>cles, &amp; you ſhall undoubtedly find, that from the time of this preciſe Emperour, that ſtately City, whoſe lof<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y buil<g ref="char:EOLhyphen"/>dings crown'd ſeven high hills at once, &amp; overpeer'd them all, ſtreightway began to hang the head, by degrees the forraign Kingdomes revolted, &amp; the homage done them by ſtrange Nations, was in a little ſpace quite abrogated: For they governed all the world, ſome under Conſuls, ſome under Pro-conſuls, Preſidents, &amp; Praetors, they divi<g ref="char:EOLhyphen"/>ded their Dominions and Countries into Principalities, ſome into Provinces, ſome into Toparchies, ſome into Te<g ref="char:EOLhyphen"/>trarchies, ſome into Tribes, others into Ethnarchies: But now their homage ceaſt, <hi>Marcus Aurelius</hi> ended their mirth, which preſaged that ſhortly after ſhould begin their ſor<g ref="char:EOLhyphen"/>row, he baniſht their liberty, and immediately followed their bondage. For <hi>Rome,</hi> which till then kept all the Na<g ref="char:EOLhyphen"/>tions of the world in ſubjective awe, was in a little ſpace awed even by the baſeſt Nations of the world. To leave <hi>Italy,</hi> &amp; look back into <hi>Greece,</hi> the Sages &amp; Princes of <hi>Gre<g ref="char:EOLhyphen"/>cia,</hi> who for the refinedneſs of their language were in ſuch reputation through the world that all other tongues were eſteemed barbarous; Theſe that were the firſt underſtan<g ref="char:EOLhyphen"/>ders, trained up their youthfull Nobility to be Actors,
+<pb n="13" facs="tcp:168524:15"/> debarring the baſe Mechanicks ſo worthy imployment: for none but the young Heroes were admitted that pra<g ref="char:EOLhyphen"/>ctiſe, ſo to embolden them in the delivery of any forrain Embaſſy. Theſe wiſe men of <hi>Greece!</hi> (ſo called by the Oracle) could by their induſtry, finde out no neerer or director courſe to plant humanity and manners in the hearts of the multitude, than to inſtruct them by moraliz'd myſtries what vices to avoid, what vertues to embrace; what enor<g ref="char:EOLhyphen"/>mities to abandon, what ordinances to obſerve: whoſe lives (being for ſome ſpecial endowments in former time honoured) they ſhould admire &amp; follow: whoſe vicious actions (perſonated in ſome licentious liver) they ſhould deſpiſe &amp; ſhun, which born out as well by the wiſdome of the Poet, as ſupported by the worth of the actors, wrought ſuch impreſſio<g ref="char:cmbAbbrStroke">̄</g> in the hearts of the plebe, that in ſhort ſpace they excelled in civility and government, inſomuch that from them all the neighbour Nations drew their patterns of Humanity, as well in the eſtabliſhing of their lawes, as the reformation of their manners. Theſe <hi>Magi</hi> and <hi>Gimno<g ref="char:EOLhyphen"/>ſophiſtae,</hi> that liv'd (as I may ſay) in the childhood and in<g ref="char:EOLhyphen"/>ſancy of the world, before it knew how to ſpeak perfectly though even in thoſe dayes, that Action was the neereſt way to plant underſtanding in the hearts of the ignorant. Yea (but ſay ſome) you ought not to confound the habits of either ſex as to let your boyes weare the attires of vir<g ref="char:EOLhyphen"/>gins, &amp;c. To which I anſwer. The Scriptures are not al<g ref="char:EOLhyphen"/>wayes to be expounded meerly, according to the letter: (for in ſuch eſtate ſtands our main Sacramentall Contro<g ref="char:EOLhyphen"/>verſie) but they ought exactly to be conferred with the purpoſe they handle. To do as the Sodomites did, uſe pre<g ref="char:EOLhyphen"/>poſterous in luſts in prepoſterous habits, is in that text flat<g ref="char:EOLhyphen"/>ly and ſeverely forbidden: nor can I imagine any man, that hath in him any taſte or reliſh of Chriſtianity to be guilty of ſo abhorred a ſinne. Beſides, it is not probable that Playes were meant in that text, becauſe we read not of any Playes knowne in that time that <hi>Deutronomie</hi>
+                  <pb n="14" facs="tcp:168524:16"/> was writ among the Children of Iſrael, nor do I hold it lawfull to beguile the eyes of the world in confounding the ſhapes of either ſex, as to keep any youth in the habit of a virgin, or any virgin in the ſhape of a lad, to ſhroud them from the eyes of their fathers, tutors, or protectors, or to any other ſiniſter intent whatſoever. But to ſee our youths attired in the habbit of women, who knows not what their intents be? who cannot diſtin<g ref="char:EOLhyphen"/>guiſh them by their names, aſſuredly knowing, they are but to repreſent ſuch a Lady at ſuch a time appointed?</p>
+               <p>Do not the Univerſities, the fountaines &amp; well ſprings of all good Arts, Learning and Documents, admit the like in their Colledges? and they (I aſſure my ſelf) are not ig<g ref="char:EOLhyphen"/>norant of their true uſe. In the time of my reſidence in <hi>Cambridge,</hi> I have ſeen Tragedies, Comedies, Hiſtories, Pa<g ref="char:EOLhyphen"/>ſtorals and Shewes, publickly acted, in which Graduates of good place and reputation, have been ſpecially parted, this is held neceſſary for the emboldening of their <hi>junior</hi> ſchollers, to arm them with audacity, againſt they come to be imployed in any publick exerciſe, as in the reading of the Dialectick, Rhetorick, Ethicke, Mathematicke, the Phyſick, or Metaphyſick Lectures: It teacheth audacity to the baſhfull Grammarian, being newly admitted into the private Colledge, and after matriculated and entred as a member of the Univerſity, and makes him a bold Sophi<g ref="char:EOLhyphen"/>ſter to argue <hi>pro &amp; contra,</hi> to compoſe his Sillogiſmes, Ca<g ref="char:EOLhyphen"/>thegorick, or Hipothetick (ſimple or compound) to rea<g ref="char:EOLhyphen"/>ſon &amp; frame a ſufficient argument to prove his queſtions or to defend any <hi>axioma,</hi> to diſtinguiſh of any Dilemma, &amp; be able to moderate in any Argumentation whatſoever.</p>
+               <p>To come to Rhetorick, it not onely emboldens a ſchol<g ref="char:EOLhyphen"/>ler to ſpeak, but inſtructs him to ſpeak well, and with judgment, to obſerve his comma's, colons, &amp; full points, his parentheſes, his breathing ſpaces, and diſtinctions, to keep a decorum in his countenance, neither to frowne when he ſhould ſmile, nor to make unſeemly and diſgui<g ref="char:EOLhyphen"/>ſed
+<pb n="15" facs="tcp:168524:16"/> faces in the delivery of his words, not to ſtair with his eys, draw awry his mouth, confound his voice in the hol<g ref="char:EOLhyphen"/>low of his throat, or tear his words haſtily betwixt his teeth, neither to buffet his desk like a mad-man, nor ſtand in his place like a liveleſs Image, demurely plodding, and without any ſmooth and formal motion. It inſtructs him to fit his phraſes to his action, and his action to his phraſe, and his pronunciation to them both.</p>
+               <p>
+                  <hi>Tully</hi> in his book <hi>ad Caium Herennium,</hi> requires five things in an Orator, <hi>Invention, Diſpoſition, Elocution, Memo<g ref="char:EOLhyphen"/>ry,</hi> and <hi>Pronuntiation,</hi> yet all are imperfect without the ſixt, which is <hi>Action:</hi> For be his invention never ſo fluent and exquiſite, his diſpoſition and order never ſo compo<g ref="char:EOLhyphen"/>ſed and formal, his eloquence and elaborate phraſes never ſo material and pithy, his memory never ſo firm and re<g ref="char:EOLhyphen"/>tentive, his pronunciation never ſo muſical and plauſive, yet without a comely and e'egant geſture, a grat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and a bewitching kinde of action, a naturall and a familiar motion of the head, the hand, the body, and a moderate and fit countenance ſutable to all the reſt, I hold all the reſt as nothing. A delivery and ſweet action is the gloſs and beauty of any diſcourſe, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> belongs to a Schollar. And this is the action behoveful in any that profeſs this quali<g ref="char:EOLhyphen"/>ty, not to uſe any impudent or forced motion in any part of the body, no rough, or other violent geſture, nor on the contrary to ſtand like a ſtiffe ſtarcht man, but to qua<g ref="char:EOLhyphen"/>lify every thing according to the nature of the perſon per<g ref="char:EOLhyphen"/>ſonated: For in overacting tricks, and toyling too much in the antick habit of humours, men of the ripeſt deſert, greateſt opinions, and beſt reputations, may break into the moſt violent abſurdities. I take not upon me to teach, but to adviſe: For it becomes my <hi>Juniority</hi> rather to be pupild my ſelf, than to inſtruct others.</p>
+               <p>To proceed, and to lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k into thoſe men that profeſs themſelves adverſaries to this quality, they are none of the graveſt, and moſt ancient Doctors of the Academy, but
+<pb n="16" facs="tcp:168524:17"/> onely a ſort of find-faults, ſuch as intereſt their prodigal tongues in all mens affairs without reſpect. The<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e I have heard as liberally in their ſuperficial cenſures, tax the ex<g ref="char:EOLhyphen"/>erciſes performed in their Colledges, as theſe acted on our publick Stages, not looking into the true and direct uſe of either, but ambitiouſly preferring their own pre<g ref="char:EOLhyphen"/>ſumptuous humours, before the profound and authen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>cal judgements of all the learned Doctors of the Univer<g ref="char:EOLhyphen"/>ſity. Thus you ſee, that touching the antiquity of Actors and Acting, they have not been new, lately begot by any upſtart invention, but I have derived them from the firſt Olimpiads, and I ſhall continue the uſe of them even till this preſent age. And ſo much touching their antiquity.</p>
+               <epigraph>
+                  <q>Pars ſupereſt coepti: pars eſt exhauſta laboris.</q>
+               </epigraph>
+               <trailer>The end of the firſt Book.</trailer>
+            </div>
+            <div n="2" type="book">
+               <pb n="17" facs="tcp:168524:17"/>
+               <head>OF THE ACTORS, and their ancient <hi>DIGNITY.</hi>
+               </head>
+               <head type="sub">THE SECOND BOOK.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">J</seg>
+                     <g ref="char:V">Ʋ</g>LI<g ref="char:V">Ʋ</g>S CAESAR,</hi> the famous Conquer<g ref="char:EOLhyphen"/>our, diſcourſing with <hi>Marcus Cicero,</hi> the famous Orator, amongſt many other matters debated, It pleaſed the Emperour to ask his opinion of the Hiſtrions, the players of <hi>Rome,</hi> pretending ſome cavill againſt them, as men whoſe imployment in the Common<g ref="char:EOLhyphen"/>weal was unneceſſary: to whom <hi>Cicero</hi> anſwered thus: Content thee <hi>Caeſar,</hi> there be many heads buſied and be<g ref="char:EOLhyphen"/>witched with theſe paſtimes now in <hi>Rome,</hi> which other<g ref="char:EOLhyphen"/>wiſe would be inquiſitive after thee and thy greatneſſe: Which anſwer, how ſufficiently the Emperour approved may be conjectured by the many gifts beſtowed, and pri<g ref="char:EOLhyphen"/>viledges and Charters after granted to men of that qua<g ref="char:EOLhyphen"/>lity. Such was likewiſe the opinion of a great ſtateſman of this land, about the time that certain books were cal<g ref="char:EOLhyphen"/>led in queſtion. Doubtleſſe there be many men of that temper, who were they not carried away, and weaned from their own corrupt and bad diſpoſition, and by acci<g ref="char:EOLhyphen"/>dental I means remov'd and alter'd from their dangerous and ſullen intendments, would be found apt and prone to many notorious and trayterous practiſes. Kings and Monarches are by God placed and inthroned <hi>ſupra nos</hi> a<g ref="char:EOLhyphen"/>bove us, &amp; we are to regard them as the Sun from whom we receive the light to live under, whoſe beauty &amp; bright<g ref="char:EOLhyphen"/>neſs we may only admire, not meddle with: <hi>Ne ludamus</hi>
+                  <pb n="18" facs="tcp:168524:18"/> 
+                  <hi>cum Diis,</hi> they that ſhout at the ſtarrs over their heads, their arrows fall directly down and wound themſelves, But this alluſion may be better referred to the uſe of acti<g ref="char:EOLhyphen"/>on promiſed in our third Treatiſe, than to their dignity which next and immediately (by Gods grace) our purpoſe is to handle.</p>
+               <p>The word <hi>Tragedy,</hi> is derived from the Greek word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Caper</hi> a goat, becauſe a goat being a beaſt moſt in<g ref="char:EOLhyphen"/>jurious to the vines, was ſacrificed to <hi>Bacchus:</hi> Hereupon <hi>Diodorus</hi> writes, that Tragedies had their firſt names from the oblations due to <hi>Bacchus;</hi> or elſe of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a kinde of painting, which the Tragedians of the o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> time uſed to ſtaine their faces with. By the cenſure of <hi>Horace, Theſpis</hi> was the firſt Tragick writer.</p>
+               <lg>
+                  <l>
+                     <hi>Ignotum Tragicae genus inveniſſe Cam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nae</hi>
+                  </l>
+                  <l>
+                     <hi>Dicitur,, &amp; plauſtris vexiſſe poema<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a Theſpis.</hi> 
+                     <note place="margin">Horace Arte Poetica,</note>
+                  </l>
+                  <l>
+                     <hi>The unknown Tragick Muſe</hi> Theſpis <hi>firſt ſought,</hi>
+                  </l>
+                  <l>
+                     <hi>And her high Poems in her Chariot brought.</hi>
+                  </l>
+               </lg>
+               <p>This <hi>Theſpis</hi> was an <hi>Athenian</hi> Poet, born in <hi>Theſpina,</hi> a free town in <hi>Eoetia</hi> by <hi>Helicon,</hi> of him the nine Muſes were called <hi>Theſpiades.</hi> But by the cenſure of <hi>Quintilian, Aeſchi<g ref="char:EOLhyphen"/>les</hi> before him, but afte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them <hi>Sophocles</hi> and <hi>Euripides</hi> clo<g ref="char:EOLhyphen"/>thed <note place="margin">Polid. Virgil.</note> their Tragedies in better ornament. <hi>Livius And<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oni<g ref="char:EOLhyphen"/>ous</hi> was the firſt that writ any <hi>Roman</hi> Tragedy in which kinde of poeſie <hi>Accius, Pacuvius, Seueca, and Ovidius</hi> excel<g ref="char:EOLhyphen"/>led.</p>
+               <lg>
+                  <l>
+                     <hi>Sceptra tamen ſumpſi curá<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Tragedia noſtra</hi> 
+                     <note place="margin">
+                        <hi>Ovid Amorum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>b.</hi> 2. 18.</note>
+                  </l>
+                  <l>
+                     <hi>Crevit, at huic operi quamlibet aptus eram.</hi>
+                  </l>
+                  <l>
+                     <hi>The ſceptred Tragedy then prov'd our wit,</hi>
+                  </l>
+                  <l>
+                     <hi>And to that work we found us apt and fit.</hi>
+                  </l>
+                  <l>Again in his fifth book <hi>de triſtibus; Eleg</hi> 8.</l>
+                  <l>
+                     <hi>Carmen quod veſtro ſaltari noſtra Theatro</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>erſibus &amp; plaudi ſcribis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>amice meis.</hi>
+                  </l>
+                  <l>
+                     <hi>Deare friend thou writ'ſt our Muſe i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'mongſt you ſong,</hi>
+                  </l>
+                  <l>
+                     <hi>And in your Theaters with plaudits rung.</hi>
+                  </l>
+               </lg>
+               <pb n="19" facs="tcp:168524:18"/>
+               <p> Likewiſe in his Epiſtle to <hi>Auguſtus,</hi> writ from the Pon<g ref="char:EOLhyphen"/>tick Iſland, whither he was baniſht.</p>
+               <lg>
+                  <l>Et dedimus tragicis ſcriptum regale Cothurnis,</l>
+                  <l>Quae<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> gravis debet verba Cothurnus habet.</l>
+                  <l>With royall ſtile ſpeaks our Cothurnate Muſe,</l>
+                  <l>A buskin'd phraſe in buskin'd plaies we uſe.</l>
+               </lg>
+               <p>The word <hi>Comedy</hi> is derived from the Greek word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a ſtreet, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Cantus</hi> a ſong, a ſtreet-ſong, as ſigni<g ref="char:EOLhyphen"/>fying there was ever mirth in thoſe ſtreets where Come<g ref="char:EOLhyphen"/>dies moſt flouriſht.</p>
+               <p>
+                  <hi>Haec paces habuere bonae venti<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſecundi.</hi>
+               </p>
+               <p>In this kinde <hi>Ariſtophanes, Eupolis, Cratinus</hi> were fa<g ref="char:EOLhyphen"/>mous, after them <hi>Menander</hi> and <hi>Philemon:</hi> ſucceeding them <hi>Cicilius, Nevius Plautus</hi> and <hi>Terentius.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Muſa<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Turani tragicis innixa Cothurnis,</hi>
+                  </l>
+                  <l>
+                     <hi>Et tua cum ſocco, Muſa, Meliſſe levis.</hi>
+                  </l>
+                  <l>Turanus <hi>tragick buskin grac'd the Play,</hi>
+                  </l>
+                  <l>Meliſſa'es <hi>Comick ſhooe made lighter way.</hi>
+                  </l>
+               </lg>
+               <p>The ancient Hiſtriographers write, that among the <note place="margin">Alex. Metapol.</note> 
+                  <hi>Greeks</hi> there were divers places of exerciſe, appointed for Poets, ſome at the grave of <hi>Theſeus,</hi> others at <hi>Helicon,</hi> where they in Comedies and Tragedies contented for ſeverall prices, where <hi>Sophocles</hi> was adjudged, victor over <hi>Aeſchilus.</hi> There were others in the City of <hi>Elis,</hi> where <hi>Menander</hi> was foiled by <hi>Philemen.</hi> In the ſame kinde <hi>Heſiod</hi> is ſaid to have triumph'd over <hi>Homer.</hi> So <hi>Corinna</hi> for her excellen<g ref="char:EOLhyphen"/>cies in theſe inventions, (called <hi>Muſca lirica</hi> (excelled <hi>Pin<g ref="char:EOLhyphen"/>darus</hi> the <hi>Theban</hi> Poet, for which ſhe was five times crow<g ref="char:EOLhyphen"/>ned with garlands.</p>
+               <p>The firſt publick Theater was by <hi>Dionyſius</hi> built in <hi>A<g ref="char:EOLhyphen"/>thens,</hi> it was faſhioned in the manner of a ſemi-cir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, or <note place="margin">Theaters.</note> half moone, whoſe galleries &amp; degrees were reared from the ground, their ſtaires high, in the midſt of which did ariſe the ſtage, beſides ſuch a convenient diſtance from the earth, that the audience aſſemble might eaſily behold
+<pb n="20" facs="tcp:168524:19"/> the whole project without impediment. From this the <hi>Romans</hi> had their firſt paterns, which at the firſt not being roof't, but lying open to all weathers, <hi>Quintus Catulus</hi> was the firſt that cauſed the outſide to be covered with linnen cloth, and the inſide to be hung round with Curtens of ſilke. But when <hi>Marcus Scaurus</hi> was <hi>Aedilis,</hi> he repaired it, and ſupported it round with pillars of Marble.</p>
+               <p>
+                  <hi>Caius Curio,</hi> at the ſolemn obſequies of his father, ere<g ref="char:EOLhyphen"/>cted a famous Theater of Timber, in ſo ſtrange a forme, that on two ſeverall ſtages, two ſundry playes might be acted at once, and yet the one be no hinderance or impe<g ref="char:EOLhyphen"/>dement to the other; and when he ſo pleaſed the whole frame was artificially compoſed to meet in the mid'ſt which made an Amphitheater.</p>
+               <p>
+                  <hi>Pompey</hi> the great, after his victories againſt <hi>Mithridates,</hi> King of <hi>Pontus,</hi> ſaw in the City <hi>Mitelene,</hi> a Theater of an<g ref="char:EOLhyphen"/>other form, and after his triumphs and return to <hi>Rome,</hi> he raiſed one after the ſame patern of freeſtone, of that vaſtneſſe and receit, that within his ſpaciouſneſſe it was a<g ref="char:EOLhyphen"/>ble at once to receive foureſcore thouſand people, every one to fit, ſee and hear.</p>
+               <p>In emulation of this ſumptuous and gorgeous building, <hi>Julius Caeſar,</hi> ſucceſſor to <hi>Pompeis</hi> greatneſs exceeded him in his famous Architecture, he rais'd an Amphitheater, <hi>Cam<g ref="char:EOLhyphen"/>po Martio,</hi> in the field of <hi>Mars,</hi> which as far excelled <hi>Pom<g ref="char:EOLhyphen"/>peies,</hi> as <hi>Pompeyes</hi> did exceed <hi>Caius Curioes, Curioes,</hi> that of <hi>Marcus Scaurus, Scaurus</hi> that of <hi>Quintus Catulus,</hi> or <hi>Catulus</hi> that which was firſt made in <hi>Athens</hi> by <hi>Dionyſius:</hi> for the Baſſes, Columnes, Pillars, and Piramides were all of hew<g ref="char:EOLhyphen"/>ed Marble, the coverings of the ſtage, which we call the heavens (where upon any occaſion their Gods deſcended) were Geometrically ſupported by a Giant-like <hi>Atlas,</hi> whom the Poets for his Aſtrology, feign to bear heaven on his ſhoulders, in which an artificiall Sunn and Moon of extraordinary aſpect &amp; brightneſs had their diurnall, and nocturnall, motions; ſo had the ſtarrs their true and
+<pb n="21" facs="tcp:168524:19"/> coeleſtiael courſe; ſo had the ſpheares, which in their con<g ref="char:EOLhyphen"/>tinual motion made a moſt ſweet &amp; raviſhing harmony. Here were the Elements and planets in their degrees, the sky of the <hi>Moon,</hi> the sky of <hi>Mercury, Venus, Sol, Mars, Jupiter,</hi> and <hi>Saturn;</hi> the ſtars, both fixed &amp; wandering: &amp; above all theſe, the firſt mover, or <hi>primum mobile,</hi> there were the 12 ſignes; the lines Equinoctiall and Zodiacal, the Meridian circle, or Zenith, the Orizon circle, or Emiſphere, the Zones torrid &amp; frozen, the poles artick &amp; antartick, with all o<g ref="char:EOLhyphen"/>ther tropicks, orbs, lines, circles, the <hi>Solſtitium</hi> and all other motions of the ſtars, ſignes, &amp; planets <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> brief, in that little compaſs were comprehended the perfect model of the fir<g ref="char:EOLhyphen"/>mament, the whole frame of the heavens, with all grounds of Aſtronomicall conjecture From the roof grew a lover or turret, of an exceeding altitude, from which an enſign of ſilk waved continually, <hi>Pendebant vela Theatro.</hi> But left I waſt too much of that compendiouſneſs, I have promi<g ref="char:EOLhyphen"/>ſed in my diſcourſe, in idle deſcriptions, I leave you to judge the proportion of the body by the making of this one limbe, every pillar, ſeat, foot-poſt, ſtair, galery, &amp; what<g ref="char:EOLhyphen"/>ſoever elſe belongs to the furniſhing of ſuch a place, being in coſt, ſubſtance, form, &amp; artificiall workmanſhip, moſt ſutable. The floore, ſtage, roof, outſide, &amp; inſide, as coſtly as the <hi>Pantheon</hi> or <hi>Capitols.</hi> In the principall galleries were ſpecial remote, ſelected &amp; choſen ſeats for the Empe<g ref="char:EOLhyphen"/>rour, <hi>patres conſcripti,</hi> Dictators Conſuls, Preto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Tribunes Triumviri, Decemvi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i, Ediles, Curules, &amp; other Noble Officers among the Senators: all other rooms were free for the plebe, or multitude. To this purpoſe I introduce theſe famous Edifices; as wondering at their coſt &amp; ſtate, thus intimating that if the quality of Acting, were (as ſome propoſe) altogether unworthy, why for the ſpecial practice, and memorable imployment of the ſame, were founded ſo many rare and admirable monuments: &amp; by, whom were they erected? but by the greateſt Princes of their times, &amp; the moſt famous and worthieſt of them all,
+<pb n="22" facs="tcp:168524:20"/> builded by him that was the greateſt Prince of the world, <hi>Julius Caeſar,</hi> at what time in his hand he grip'd the uni<g ref="char:EOLhyphen"/>verſal Empire of the earth. So of <hi>Auguſtus Caeſar.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Inſpice ludorum ſumptus, Auguſte, tuorum]</hi>
+                  </l>
+                  <l>
+                     <hi>Empta tibi magno—</hi>
+                  </l>
+                  <l>
+                     <hi>Behold</hi> Auguſtus <hi>the great pompe and ſtate</hi>
+                  </l>
+                  <l>
+                     <hi>Of theſe thy Playes paid dear for, at high rate.</hi>
+                  </l>
+                  <l>
+                     <hi>Haec tu ſpectâſti ſpectanda<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſaepe dediſti.</hi>
+                  </l>
+               </lg>
+               <p>And could any <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>feriour quality be more worthily e<g ref="char:EOLhyphen"/>ſteemed or noblier graced, than to have Princes of ſuch magnificence and ſtate to beſtow on them places of ſuch port and countenance, had they been never well regarded they had been never ſo ſufficiently provided for, nor would ſuch worthy Princes have ſtrived who ſhould (by their greateſt expence and proviſion) have done them the ampleſt dignity, had they not with incredible favour re<g ref="char:EOLhyphen"/>garded the quality. I will not traverſe this too farr, leaſt I incurr ſome ſuſpition of ſelf-love, I rather leave it to the favourable conſideration of the wiſe though to be perverſneſſe of the ignorant who ha<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they any taſt either of Poefie, Philoſophy, or Hiſtoricall Antiquity, would rather ſtand mated at their own impudent ignorance, than againſt ſuch noble, and notable examples ſtand in publick defiance.</p>
+               <p>I read of a Theater built in the midſt of the River <hi>Tyber</hi> ſtanding on pillars and arches, the foundation wrought under water like London-bridge, the Nobles and Ladies in their Barges and Gondelayes, landed at the very ſtairs of the galleries. After theſe they compoſed others, but differing in forme from the Theater, or Amphi-theater, and every ſuch was called <hi>Circus,</hi> the frame Glob-like, and meerly round.</p>
+               <q>
+                  <l>Circus in haenc exit clamata<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> palma Theatris.</l>
+               </q>
+               <p>And the year from the firſt building of <hi>Rome,</hi> five hun<g ref="char:EOLhyphen"/>dred threeſcore and ſeven, what time <hi>Spurius Poſthumus</hi>
+                  <pb n="23" facs="tcp:168524:20"/> 
+                  <hi>Albinus,</hi> and <hi>Quintus Martius Philippus,</hi> were Conſuls, <hi>Ne<g ref="char:EOLhyphen"/>ro</hi> made one, and the noble <hi>Flaminius</hi> another, but the grea<g ref="char:EOLhyphen"/>teſt was founded by <hi>Tarquinius Priſcus,</hi> and was called <hi>Cir<g ref="char:EOLhyphen"/>cus maximus:</hi> In this the Gladiators practiſed, the wide<g ref="char:EOLhyphen"/>neſs and ſpaciouſneſs was ſuch, that in it they fought at Barriers, &amp; many times ran at tilt. <hi>Dion</hi> records eighteen Elephants ſlain at once in one Theater. More particularly to ſurvey the rarer Monuments of <hi>Rome,</hi> neer to the <hi>Pan<g ref="char:EOLhyphen"/>theon</hi> (the Temple of the <hi>Roman</hi> gods) at the deſcent from the hill <hi>Capitolinus,</hi> lies the great <hi>Forum,</hi> by which is ſcitu<g ref="char:EOLhyphen"/>ate the great Amphi-theater of <hi>Titus</hi> f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt erected by <hi>Veſpa<g ref="char:EOLhyphen"/>tian,</hi> but after (almoſt ruined by fire) by the <hi>Roman Titus</hi> rarely reedified. It is called <hi>Coll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us,</hi> alſo a <hi>Cavea,</hi> which ſignifies a ſcaffold, al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <hi>Arena,</hi> a place of combate, by <hi>Silvi<g ref="char:EOLhyphen"/>anus</hi> &amp; <hi>Prudentius,</hi> which name <hi>Tertullian, Pliny, Ovid, Fir<g ref="char:EOLhyphen"/>micus</hi> 
+                  <note place="margin">
+                     <hi>Ammianus, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> 29.</note> &amp; <hi>Apuleius</hi> likewiſe give it. It had the title of <hi>Circus, Caula</hi> and <hi>Stadium,</hi> by <hi>Suetonius, Capitolinus</hi> and <hi>Arcadius. Caſſianus</hi> affirmes theſe Theaters conſecrated to <hi>Diana Taurica; Tertullian,</hi> to <hi>Mars</hi> &amp; <hi>Diana; Martiall,</hi> to <hi>Jupiter Latiaris,</hi> and to <hi>Stigian Pluto,</hi> whoſe opinion <hi>Minutius</hi> and <hi>Prudentius</hi> approve. The firſt ſtructures were by the Tri<g ref="char:EOLhyphen"/>bune <hi>Curio,</hi> which <hi>Dio, lib.</hi> 37. affirms. <hi>Vitruvius, lib.</hi> 5. ſaith, <note place="margin">
+                     <hi>Pliny. lib.</hi> 36.</note> 
+                  <hi>Multa Theatra Romae ſtructa quotannis.</hi> Of <hi>Julius Caeſar</hi>'s Amphi-theater, <hi>Campo Martio, Dio Caſſius</hi> records, which <note place="margin">
+                     <hi>Dio Caſſus lib.</hi> 43.</note> 
+                  <hi>Auguſtus</hi> after patronized, as <hi>Victor</hi> remembers of them, whoſe cha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge <hi>Statilius Taurus</hi> aſſiſted, of whom <hi>Dio</hi> ſpeak<g ref="char:EOLhyphen"/>eth thus, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c. anno urbis,</hi> DCCXXV. <note place="margin">
+                     <hi>Dio. lib</hi> 51. <hi>Suetonius c.</hi> 21</note> 
+                  <hi>Pub. Victor</hi> for gets not <hi>Circus Flaminii,</hi> and <hi>Suetonius</hi> re<g ref="char:EOLhyphen"/>members one builded by <hi>Caligula</hi> at <hi>Septa,</hi> whoſe building <hi>Claudius</hi> at firſt interdicted. <hi>Nero</hi> erected a magnificent <note place="margin">
+                     <hi>Tacitus lib.</hi> 13 <hi>Anna<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ium.</hi>
+                  </note> Theater in the field of <hi>Mars, Suetonius lib. Ner.</hi> 12.</p>
+               <p>
+                  <hi>Publius Victor,</hi> ſpeaks further of a <hi>Caſtrenſe Theatrum,</hi> a Theater belonging to the Camp in the Country of the <hi>Aeſquiles,</hi> built by <hi>Tiberius Caeſar,</hi> &amp; of <hi>Pompey's</hi> Theater <hi>Pli<g ref="char:EOLhyphen"/>ny</hi> 
+                  <note place="margin">
+                     <hi>Pliny, lib.</hi> 36. <hi>cap.</hi> 15.</note> witneſſes. The great Theater of <hi>Statilius</hi> being in grea<g ref="char:EOLhyphen"/>teſt uſe, was burnt in the time of <hi>Nero,</hi> which <hi>Xiphilinus</hi>
+                  <pb n="24" facs="tcp:168524:21"/> thus ſpeaks of, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. This was built in the midſt of the old City, and after the combuſtion repaired by <hi>Veſpatian, Conſulatu ſuo</hi> 8 whoſe coyn of one ſide, bears the expreſs figure of his Theater, yet was it onely begun by him, but perfected by his ſon <hi>Titus. Eutropius</hi> &amp; <hi>Caſſiodorus,</hi> attribute this place ſoly to <hi>Titus,</hi> but <hi>Aurelius Victor</hi> gives him onely the ho<g ref="char:EOLhyphen"/>nour of the perfecting a place ſo exquiſitely begun: This after was repaired by <hi>Marcus Anthonius Pius,</hi> by whoſe coſt ſaith <hi>Capitolinus,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Temple of <hi>Hadrianus</hi> was repaired, and the great Theater reedified, which <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liogabalus</hi> by the teſtimony of <hi>Lampr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dius,</hi> patronized, and after the Senate of <hi>Rome,</hi> took to their protection, under the <hi>Gordians.</hi>
+               </p>
+               <p>Touching Theaters without <hi>Rome, Lypſius</hi> records, <hi>Theatra circa Romani, extructa paſſim,</hi> even in <hi>Jeruſalem, He<g ref="char:EOLhyphen"/>rodes magnificus &amp; illuſtris Rex non uno loco Ju<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ae Amphi<g ref="char:EOLhyphen"/>theatra aedificavit, extruxit in ipſa urbe ſacra,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (as <hi>Joſephus</hi> ſaith) <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Herod</hi> a magnificent and illuſtrious King, not in one place of <hi>Juda,</hi> erected Amphitheaters, but even in the holy City he built one of greateſt receit. Alſo in <hi>Greece, Aſia, Affrick Spain, France:</hi> nor is there any Province in which their ancient ſtru<g ref="char:EOLhyphen"/>ctures do not yet remain, or their periſhing ruines are not ſtill remembred. In <hi>Italy, ad Lyrim campaniae Fluvium juxta Minturnas,</hi> remains part of an ample Amphi-theater.</p>
+               <p>At <hi>Puteolis</hi> a City not far from the Sea-ſide in <hi>Campa<g ref="char:EOLhyphen"/>nia,</hi> eight miles from <hi>Napl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> one.</p>
+               <p>At <hi>Capua,</hi> a magnificent one of ſolid Marble.</p>
+               <p>At <hi>Alba</hi> in <hi>Italy,</hi> one.</p>
+               <p>At <hi>Oericulum</hi> in <hi>
+                     <g ref="char:V">Ʋ</g>mbria,</hi> one.</p>
+               <p>At <hi>Verona,</hi> one moſt beautifull.</p>
+               <p>At <hi>Florence,</hi> one whoſe compaſs yet remains:</p>
+               <p>At <hi>Athens</hi> in <hi>Greece,</hi> one of Marble.</p>
+               <p>At <hi>Pola</hi> in <hi>Iſtria,</hi> by the <hi>Hadriatick</hi> Sea, one deſcribed by <hi>Sebaſtian Serlius.</hi>
+               </p>
+               <p>At <hi>Hyſpalis</hi> in <hi>Spain,</hi> one built without the walls of the City.</p>
+               <pb n="25" facs="tcp:168524:21"/>
+               <p> In <hi>Turamace</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Veſuna</hi> one of ſquared ſtone, the length 30 perches, or poles, the bredth 20.</p>
+               <p>At <hi>Arelate</hi> one.</p>
+               <p>At <hi>Burdegall</hi> one.</p>
+               <p>At <hi>Nemaus</hi> one, remembred by <hi>Euſeb. in Eccleſiaſtica Hi<g ref="char:EOLhyphen"/>ſtoria.</hi>
+               </p>
+               <p>At <hi>Lygeris</hi> one.</p>
+               <p>Another among the <hi>Helvetians.</hi>
+               </p>
+               <p>The <hi>Veronenſe Theatrum Marmoreum,</hi> erected before the time of <hi>Auguſtus,</hi> as <hi>Torel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us Serrayna</hi> in his deſcription of <hi>Verona</hi> records: but <hi>Cirnicus Anconitanu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> reports it built in the n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne and thirteth year of <hi>Octavia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Carolus Sigonius</hi> re<g ref="char:EOLhyphen"/>ferres it to the reigne of <hi>Maximinian,</hi> who ſaith, <hi>Maxi<g ref="char:EOLhyphen"/>minian</hi> built theaters in <hi>Mediolanum Aquilea,</hi> and <hi>Brixium.</hi> 
+                  <note place="margin">Sicon. lib Hiſt. O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cident.</note> The like <hi>Cornelius Tacitus</hi> 2. <hi>Hiſt.</hi> remembers in <hi>Placentia,</hi> but the deſcription of the <hi>Verona</hi> Theater <hi>Levinus Kerſma<g ref="char:EOLhyphen"/>kerus</hi> ſets down. This the great King <hi>Francis an.</hi> 1538. gave to certain Actions, who thirty dayes ſpace together repreſented in the ſame the Acts of the Apoſtles, nor was it lawfull by the Edict of the King for any man to remove any ſtone within thirty poles of his ſcituation, leſt they ſhould endanger the foundation of the Theater.</p>
+               <p>The like have been in <hi>Venice, Millan, Padua.</hi> In <hi>Paris</hi> their are divers now in uſe by the <hi>French</hi> Kings Comedians, as the <hi>Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gonian,</hi> and others. Others in <hi>Maſſilia,</hi> in <hi>Trevers,</hi> in <hi>Magontia,</hi> in <hi>Agripina,</hi> and infinite Cities of <hi>Greece, Thebes, Carthage, Delphos, Creet, Paphos Epyrus,</hi> alſo in the City <hi>Tydena,</hi> ſo at <hi>Civil</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Spain,</hi> and at <hi>Madrill,</hi> with others.</p>
+               <p>At the entertainment of the Cardinall <hi>Alphonſus,</hi> and the infant of <hi>Spain,</hi> into the Low-countries, they were pre<g ref="char:EOLhyphen"/>ſented <note place="margin">Archduke <hi>Al<g ref="char:EOLhyphen"/>phonſus.</hi>
+                  </note> at <hi>Antwerp,</hi> with ſundry pageants and playes: the King of <hi>Denmark,</hi> father to him that now reigneth, enter<g ref="char:EOLhyphen"/>tained into his ſervice, a company of <hi>Engliſh Comedians,</hi> commended unto him by the honourable th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Earle of <hi>Lei<g ref="char:EOLhyphen"/>teſter:</hi> the Duke of <hi>Brounſwick,</hi> &amp; the <hi>Lands grave</hi> of <hi>Heſſen</hi> re<g ref="char:EOLhyphen"/>tain in their Courts certain of ours, of the ſame quality.
+<pb n="26" facs="tcp:168524:22"/> But among the <hi>Romans</hi> they were in higheſt reputation: for in compariſon of their playes, they never regarded any of their ſolemnities, there <hi>ludi funebres,</hi> there <hi>Floralia, Cerealia, Fugalia, Bacchinalia,</hi> or <hi>Lupercalia.</hi>
+               </p>
+               <p>And amongſt us, one of our beſt <hi>Engliſh</hi> Chroniclers re<g ref="char:EOLhyphen"/>cords, <note place="margin">S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow.</note> that when <hi>Edward</hi> the fourth would ſhew himſelf in publick ſtate to the view of the people, he repaired to his palace at St. <hi>Johns,</hi> where he accuſtomed to ſee the City Actors. And ſince then, that houſe by the Princes free gift; hath belonged to the office of the Revels, where our Court plaies have been in late dayes yearly rehearſed, perfected, and corrected before they come to the publick view of the Prince and the Nobility<g ref="char:punc">▪</g> 
+                  <hi>Ovid</hi> ſpeaking of the Tragick Muſe, thus writes,</p>
+               <lg>
+                  <l>Venit &amp; ingenti violenta tragedia paſſu,</l>
+                  <l>Fronte comae torva palla jacebat humi</l>
+                  <l>Laeva manus ſceptrum late regale tenebat,</l>
+                  <l>Lydius apta pedum vincta cothurnus habet.</l>
+               </lg>
+               <lg>
+                  <l>Then came the Tragick Muſe with a proud pace,</l>
+                  <l>Meaſuring her ſlow ſtrides with majeſtick grace.</l>
+                  <l>Her long train ſweeps the earth, and ſhe doth ſtand,</l>
+                  <l>With buskin'd legge, rough brow, and ſceptred hand.</l>
+               </lg>
+               <p>Well knew the Poet what eſtimation ſhe was in with <hi>Auguſtus,</hi> whe<g ref="char:cmbAbbrStroke">̄</g> he deſcribes her holding in her left hand a ſcepter. Now to recite ſome famous <hi>Actors</hi> that liv'd in the preceding ages: the firſt Comedia<g ref="char:cmbAbbrStroke">̄</g>s were <hi>Cincius</hi> &amp; <hi>Faliſcus,</hi> 
+                  <note place="margin">Cincius: Faliſcus. Minutius: Prothonius. L. Attili<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s. Latinus. Preneſtinus: Lucius. Ambivius Turpio.</note> the firſt Tragedians were <hi>Minutius,</hi> &amp; <hi>Prothonius Elius Do<g ref="char:EOLhyphen"/>natus</hi> in his preface to <hi>Terence</hi> his <hi>Andrea</hi> ſaith, that in that Comedy <hi>Lucius Attilius, Latinus Preneſtinus,</hi> and <hi>Lucius Ambivius Turpio</hi> were Actors: this Comedy was dedicated to <hi>Cibil,</hi> &amp; ſuch were called <hi>ludi Megalenſes,</hi> acted in the year that M. <hi>Fuluius</hi> was Edilis, &amp; <hi>Quintus Minutius Valerius</hi> &amp; M. <hi>Glabrio</hi> were Curules, which were Cou<g ref="char:cmbAbbrStroke">̄</g>ſellers &amp; chief officers in <hi>Rome,</hi> ſo called, becauſe they cuſtomably ſat
+<pb n="27" facs="tcp:168524:22"/> in Chairs of Ivory. The ſongs that were ſung in this Co<g ref="char:EOLhyphen"/>medy were ſet by <hi>Flaccus,</hi> the ſon of <hi>Clodius. Terence</hi> his <hi>Eu<g ref="char:EOLhyphen"/>nuchus</hi> 
+                  <note place="margin">Flaccus.</note> or ſecond Comedy was acted in the year L. <hi>Poſthu<g ref="char:EOLhyphen"/>mus,</hi> and L. <hi>Cornelius</hi> were Ediles. <hi>Curules Marcus Valerius,</hi> 
+                  <note place="margin">Protinus.</note> and <hi>Caius Fannius</hi> Conſuls. The year from the building <note place="margin">L. Servius.</note> of <hi>Rome</hi> 291. in his <hi>Adelphi,</hi> one <hi>Protinus</hi> acted, and was highly applauded; in his <hi>Heeyra, Julius Servius. Cicero</hi> com<g ref="char:EOLhyphen"/>mends one <hi>Rupilius</hi> a rare Tragedian: I read of another <note place="margin">
+                     <hi>Offic.</hi> 1.</note> called <hi>Aroſſus,</hi> another called <hi>Theocrines,</hi> who purchaſed <note place="margin">Rupilius: Aroſſus: Theocrines.</note> him a great applauſe in the playes called <hi>Terentini.</hi> There were other playes in <hi>Rome,</hi> called <hi>Actia</hi> and <hi>Pythia,</hi> made in the honour of <hi>Apollo,</hi> for killing the Dragon <hi>Python.</hi> In thoſe one <hi>Aeſopus</hi> bare the praiſe, a man generally e<g ref="char:EOLhyphen"/>ſteemed, <note place="margin">A Eſopus.</note> who left behind him much ſubſtance, which <hi>Clo<g ref="char:EOLhyphen"/>dius</hi> his ſon after poſſeſſed.</p>
+               <q>
+                  <l>Quae gravis Aeſopus, quae doctus Roſcius egit.</l>
+               </q>
+               <p>
+                  <hi>Labericus</hi> was an excellent Poet, and a rare Actor, who <note place="margin">Labericus.</note> writ a book of the geſture and action to be uſed by the Tragedians and Comedians, in performance of every part in his native humour. <hi>Plautus</hi> himſelf was ſo inamoured of the Actors in his dayes, that he publiſhed many excel<g ref="char:EOLhyphen"/>lent and exquiſite Comedies, yet extant. <hi>Ariſtotle</hi> com<g ref="char:EOLhyphen"/>mends <note place="margin">Theoderetes.</note> one <hi>Theoderetes</hi> to be the beſt Tragedian in his time. This in the preſence of <hi>Alexander</hi> perſonated <hi>Achilles,</hi> which ſo delighted the Emperour, that he beſtowed on him a penſion of <hi>quinque mille Drachmae,</hi> five thouſand Drachmaes, and every thouſand Drachmaes are twenty nine pounds three ſhillings four pence ſterling.</p>
+               <p>
+                  <hi>Roſcius,</hi> whom the eloquent Orator, &amp; excellent Stateſ<g ref="char:EOLhyphen"/>man of <hi>Rome Marcus Cicero,</hi> for his elegant pronuntiati<g ref="char:EOLhyphen"/>on &amp; formal geſture called his jewell, had from the com<g ref="char:EOLhyphen"/>mon Treaſury of the <hi>Roman</hi> Exchequer, a daily penſion allowed him of ſo many Seſtertii as in our coin amount to 16<hi rend="sup">1</hi>. and a mark, or there abouts, which yearly did a<g ref="char:EOLhyphen"/>riſe to any noble mans revenues. So great was the fame of this <hi>Roſcius,</hi> and ſo good his eſtimation, that learned
+<pb n="28" facs="tcp:168524:23"/> 
+                  <hi>Cato</hi> made a queſtion whither <hi>Cicero</hi> could write better than <hi>Roſcius</hi> could ſpeak and act, or <hi>Roſcius</hi> ſpeak and act better than <hi>Cicero</hi> write. Many times when they had any important orations to be with an audible and loud voice delivered to the people, they imployed the tongue and me<g ref="char:EOLhyphen"/>mory of this excellent Actor, to whom for his worth, the Senate granted ſuch large exhibition.</p>
+               <lg>
+                  <l>—quae pervincere voces,</l>
+                  <l>Evaluere ſonum referunt quem noſtra Theatra,</l>
+                  <l>Gorganum mugire putes nemus aut mare Thuſcum,</l>
+                  <l>Tanto cum ſtreptu ludi ſpectantur &amp; artes.</l>
+                  <l>What voyce can be compared with the ſound,</l>
+                  <l>Our Theaters from their deep concaves ſend,</l>
+                  <l>For their reverberate murmures ſeems to drownd</l>
+                  <l>The Gorgon wood when the proud winds contend.</l>
+                  <l>Or when rough ſtormes the Thuſcan billowes raiſe,</l>
+                  <l>With ſuch loud joy, they ring our Arts and Playes.</l>
+               </lg>
+               <p>To omit all the Doctors Za<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes, Pantaloones, Har<g ref="char:EOLhyphen"/>lakeens, in which the <hi>French,</hi> but eſpecially the <hi>Italians,</hi> have been excellent, and according to the occaſion offered to do ſome right to our Engliſh Actors, as <hi>Knell, Bentley, Mills, Wil<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n, Croſs, Lanam,</hi> and others: th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe, ſince I never ſaw them, as being before my time, I cannot (as an eye<g ref="char:EOLhyphen"/>witne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of their deſert) give them that applauſe, which no doubt, they worthily merit, yet by the report of many judicial auditors, their performance of many parts have been ſo abſolute, that it were a kind of ſin to drown their worths in Lethe, &amp; not commit their (almoſt forgotten) names to eternity. Here I muſt needs remember <hi>Tarlton,</hi> in his time gracious with the Queen, his Soveraigne, and in the peoples general applauſe, whom ſucceded <hi>William Kemp,</hi> as well in the favour o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her Majeſty, as in the opi<g ref="char:EOLhyphen"/>nion and good thoughts of the general audience. <hi>Gabriel, Singer, Pope, Phillips, Sly,</hi> all the right I can do them, is but this, that though they be dead, their deſerts yet live in the remembrance of many. Among ſo many dead let me no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:168524:23"/> forget the moſt worthy famous Mr. <hi>Edward Allen,</hi> who in his life time erected a Colledge at <hi>Dulledge</hi> for poor people, and for education of youth: When this Colledge was finiſht, this famous man was ſo equally mingled with humility and charity, that he became his own Penſioner; humbly ſubmitting himſelf to that proportion of diet and cloathes, which he had beſtowed on others; and af<g ref="char:EOLhyphen"/>terwards were interred in the ſame Colledge. To omit theſe, as alſo ſuch as for divers imperfections, may be thought inſufficient for the quality. Actors ſhould be men pick'd out perſonable, according to the parts they preſent, they ſhould be rather ſchollers, that though they cannot ſpeak well, know how to ſpeak, or elſe to have that volu<g ref="char:EOLhyphen"/>bility that they can ſpeak well, though they underſtand not what, and ſo both imperfections may by inſtructions be helped and amended: But where a good tongue and a good conceit both fail, there can never be good Actor. I alſo could wiſh that ſuch as are condemned for their li<g ref="char:EOLhyphen"/>centiouſneſs, might by a general conſent be quite exclu<g ref="char:EOLhyphen"/>ded our ſociety: For as we are men that ſtand in the broad eye of the world, ſo ſhould our manners, geſtures &amp; behaviours ſavour of ſuch government &amp; modeſty, to de<g ref="char:EOLhyphen"/>ſerve the good thoughts &amp; reports of all men, &amp; to abide the ſharpeſt cenſures even of thoſe that are the greateſt oppoſites to the quality. Many amongſt us, I know to be of ſubſtance, of government, of ſober l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves, &amp; temperate carriages, houſe-keepers, &amp; contributary to all duties en<g ref="char:EOLhyphen"/>joyned them, equally with them that are ranked with the moſt boun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull; and if amongſt ſo many of ſort, there be any few degenerate from the reſt in that good demea<g ref="char:EOLhyphen"/>nour, which is both requiſite &amp; expected at their hands, let me inticate you not to cenſure hardly of all for the miſdeeds of ſome, but rather to excuſe us, as <hi>Ovid</hi> doth the generality of women.</p>
+               <lg>
+                  <l>Parcite p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ucarum diffundere crimen in omnes,</l>
+                  <l>Spect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tur meritis quaeque puel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uis.</l>
+                  <pb n="30" facs="tcp:168524:24"/>
+                  <l> For ſome offenders (that perhaps are few)</l>
+                  <l>Spare in your thoughts to cenſure all the crew,</l>
+                  <l>Since every breaſt containes a ſundry ſpirit,</l>
+                  <l>Let every one be cenſur'd as they merit.</l>
+               </lg>
+               <p>Others there are of whom ſhould you ask my opinion, I muſt refer you to this, <hi>Conſule Theatrum.</hi> Here I might take fit opportunity to reckon up all our <hi>Engliſh</hi> writers, and compare them with the <hi>Greek, French, Italian,</hi> &amp; <hi>Latin</hi> Poets, not only in their <hi>Paſtoral, Hiſtorical, Elegiacal,</hi> &amp; <hi>Hero<g ref="char:EOLhyphen"/>ical</hi> Poems, but in their <hi>Tragical</hi> &amp; <hi>Comical</hi> ſubjects, but it was my chance to happen on the like, learnedly done by an approved good ſchollar, in a book called <hi>Wits Common<g ref="char:EOLhyphen"/>wealth,</hi> to which treatiſe I wholly refer you, returning to our preſent ſubject. <hi>Julius Caeſar</hi> himſelf for his pleaſure became an Actor, being in ſhape ſtate, voyce, judgement &amp; all other occurrents, exterior &amp; interior excellent. Among many other parts acted by him in perſon, it is recorded of him, that with general applauſe in his own Theater he play'd <hi>Hercules Fureni,</hi> &amp; amongſt many other arguments of his compleatneſs, excellence, &amp; extraordinary care in his action, tis thus reported of him: being in the depth of a paſſion, one of his ſervants as his part then fell out, preſen<g ref="char:EOLhyphen"/>ting <hi>Lychas,</hi> who before had from <hi>Deianeira</hi> brought him the poyſoned ſhirt, dipt in the blood of the Centaure <hi>Neſ<g ref="char:EOLhyphen"/>ſus:</hi> he in the middeſt of his torture &amp; fury, finding this <hi>Lychas</hi> hid in a remote corner (appointed him to creep of purpoſe) although he was, as our Tragedians uſe, but ſeemingly to kill him by ſome falſe imagined wound, yet was <hi>Caeſar</hi> ſo extremely carryed away with the violence of his practiſed fury, &amp; by the perfect ſhape of the madneſs of <hi>Hercules,</hi> to which he had faſhioned al his active ſpirits, that he ſlew him dead at his foot, &amp; after ſwong him <hi>ter<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> quater<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> (as the Poet ſays) about his head. It was the man<g ref="char:EOLhyphen"/>ner of the Emperours in thoſe dayes, in their publick Tragedies to chooſe out the fitteſt among ſuch, as for capital offences were condemned to dy, &amp; imploy them in
+<pb n="31" facs="tcp:168524:24"/> ſuch parts as were to be kil'd in the Tragedy, who of them<g ref="char:EOLhyphen"/>ſelves would make ſuit rather ſo to dy with reſolution, &amp; by the hands of ſuch princely <hi>Actors,</hi> than otherwiſe to ſuf<g ref="char:EOLhyphen"/>fer a ſhameful &amp; moſt deteſtable end. And theſe were Tra<g ref="char:EOLhyphen"/>gedies naturally performed. And ſuch <hi>Caius Caligula, Clau<g ref="char:EOLhyphen"/>dius Nero, Vitellius, Domitianus, Comodus,</hi> &amp; other Emperours of <hi>Rome,</hi> upon their feſtivals &amp; holy dayes of greateſt con<g ref="char:EOLhyphen"/>ſecration, uſed to act. Therefore M. <hi>Kid</hi> in the <hi>Spaniſh</hi> Tra<g ref="char:EOLhyphen"/>gedy, upon occaſion preſenting it ſelf, thus writes.</p>
+               <q>
+                  <l>
+                     <hi>Why</hi> Nero <hi>thought it no diſparagment,</hi>
+                  </l>
+                  <l>
+                     <hi>And Kings and Emperours have tane delight,</hi>
+                  </l>
+                  <l>
+                     <hi>To make experience, of their wits in playes.</hi>
+                  </l>
+               </q>
+               <p>Theſe exerciſes, as traditions, have bin ſince (though in better manner) continued through all ages, amongſt all the nobleſt Nations of the earth. But I have promiſed to be altogether compendious, preſuming that whatſoe<g ref="char:EOLhyphen"/>ver is diſcourſt, may for the practice of playes, their <hi>An<g ref="char:EOLhyphen"/>tiquity,</hi> and <hi>Dignity</hi> be altogether ſufficient. I omit the Shewes and ceremonies even in theſe times generally u<g ref="char:EOLhyphen"/>ſed amongſt the Catholicks, in which by the Churchmen, and moſt religious, divers pageants, as of the Nativitie, Paſſion, and Aſcention, with other Hiſtoricall places of the Bible, are at divers times &amp; ſeaſons of the year uſually celebrated; <hi>ſed baec praeter me.</hi> In the year of the world 4207 of Chriſt 246. <hi>Origin</hi> writ certain godly Epiſtles to <hi>Philip,</hi> then Emperour, of <hi>Rome,</hi> who was the firſt Chriſtian Em<g ref="char:EOLhyphen"/>perour, and in his life I read, that in the fourth year of his reign, which was the 1000. year after the building of <hi>Rome,</hi> he ſolemnized that year, as a Jubile with ſumptu<g ref="char:EOLhyphen"/>ous pageants and plays. <hi>Homer,</hi> the moſt excellent of all Poets, compoſed his Illiads in the ſhape of a Tragedy, his <hi>Odiſſeas</hi> like a Comedy. <hi>
+                     <g ref="char:V">Ʋ</g>irgil</hi> in the firſt of his <hi>Aeneiads</hi> in his deſcription of <hi>Didoes Carthage.</hi>
+               </p>
+               <q>
+                  <l>—hic alta Theatris</l>
+                  <l>Fundamenta locant alij, immaneſque Columnas</l>
+                  <l>Rupibus excidunt, cenis decora alta futuris.</l>
+               </q>
+               <pb n="32" facs="tcp:168524:25"/>
+               <p> Which proves, that in thoſe dayes immediately after the name of <hi>Troy,</hi> when <hi>Carthage</hi> had her firſt foundation, they built Theaters with ſtately columnes of ſtone, as in his deſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion may appear. I have ſufficiently di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urſt of the firſt Theaters, and in whoſe times they were erected, even till the reign of <hi>Julius Caeſar,</hi> the firſt Emperour, and how they continued in their glory from him till the reign of <hi>Marcus Aurelius</hi> the 23. Emperour, and from him even to the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e times. Now to prove they were in as high e<g ref="char:EOLhyphen"/>ſtimation at <hi>Lacedemon,</hi> and <hi>Athens</hi> to the moſt famous Cities of <hi>Greece. Cicero</hi> in his book <hi>Cato major, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u de ſe<g ref="char:EOLhyphen"/>nectute. Cum Athenis ludis quid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m grandis n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tu in Theatrum veniſſet, &amp;c.</hi> An ancient Cittizen comming into one of the <hi>Anthe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ian</hi> Theaters to ſee the paſtimes there ſolemni<g ref="char:EOLhyphen"/>zed (which ſhewes that the moſt antient and grave fre<g ref="char:EOLhyphen"/>quented them) by reaſon of the throng, no man gave him place or reverence: but the ſame Citizen being imploy'd in an Embaſſy to <hi>Lacedemon,</hi> and coming like a private man into the Theater, the generall multitude aro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e at once, and with great ceremonious reverence gave his age place. This <hi>Cieero</hi> alledges to prove the reverence due to age, and this I may fitly introduce to the approbation of my preſent ſubject. Moreover, this great Stateſman of <hi>Rome,</hi> at whoſe exile twenty thouſand of the chiefeſt <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Citizens wore mourning apparel, oftentimes com<g ref="char:EOLhyphen"/>mends <hi>Plautus,</hi> calling him <hi>Plautus noſter,</hi> and <hi>Atticorum an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iq<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Comedi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> wh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> he proceed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> further to extoll <hi>Aeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pus,</hi> for perſonating <hi>Ajax,</hi> and the famous Actor <hi>Rupilius,</hi> in <hi>Epigonus, Medaea, Menalip, Clytemneſtra</hi> and <hi>Antiopa,</hi> pro<g ref="char:EOLhyphen"/>ceeding in the ſame place with this worthy and grave ſen<g ref="char:EOLhyphen"/>tence <hi>Ergo Hiſtrio hoc videbit in ſcena, quod non videbit ſapien<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in vita<g ref="char:punc">▪</g>
+                  </hi> ſhall a Tragedian ſee that in his Scene which a wiſe man cannot ſee in the courſe of his life? So in another of his works, amongſt many <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſtructions to his ſon <hi>Marcus,</hi> he a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>plau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Turpio Ambinius</hi> for his action, <hi>Statius Nevius</hi> and <hi>Plautus</hi> for their writing. <hi>Ovid</hi> in <hi>Auguſtum.</hi>
+               </p>
+               <lg>
+                  <pb n="33" facs="tcp:168524:25"/>
+                  <l>Luminibuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tuis totus quibus utitur orbis,</l>
+                  <l>Scenic a vidiſti luſus adulteria.</l>
+                  <l>Thoſe eyes with which you all the world ſurvay,</l>
+                  <l>See in your Theaters our Actors play.</l>
+               </lg>
+               <p>
+                  <hi>Auguſtus Caeſar,</hi> becauſe he would have ſome memory of his love to thoſe places of paſtime, reared in <hi>Rome</hi> two ſtately Obeliſci, or Pyramides, one in <hi>Julius Caeſars</hi> Temple in the field of <hi>Mars,</hi> another in the great Theater, called <hi>Circus maximus,</hi> built by <hi>Flaminius:</hi> theſe were in height an hundred cubits apiece, in bredth four cubits, they were firſt raiſed by King <hi>Pheron</hi> in the Temple of the Sun, and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter removed to <hi>Rome</hi> by <hi>Auguſtus;</hi> the occaſion of their firſt compoſure was this: <hi>Pheron</hi> for ſome great crime, committed by him in his youth againſt the god<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, was by them ſtroke blind, and ſo continued the ſpace of ten years: But after by a revelation in the City <hi>Bucis,</hi> it was told, that if he waſht his eyes in the water of a woman that was chaſt, and never adulteratly toucht with any ſave her husband, he ſhould again recover his ſight<g ref="char:punc">▪</g> The King firſt tried his wife, then many other of the moſt grave and beſt reputed matrons, but continued ſtill in deſpair, till at length he met with one veruous Lady, by whoſe chaſtity his ſight was reſtored; whom (ha<g ref="char:EOLhyphen"/>ving firſt commanded his <hi>Queen</hi> and the reſt to be conſumed by fire) he after married. <hi>Pheron</hi> in memory of this, builded his two Pyra<g ref="char:EOLhyphen"/>mides, after removed to <hi>Rome</hi> by AUGUSTUS.</p>
+               <epigraph>
+                  <q>Sancta<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> majeſtas &amp; erat venerabile nomen Vatibus—</q>
+               </epigraph>
+               <trailer>The end of the ſecond Book.</trailer>
+            </div>
+            <div n="3" type="book">
+               <pb n="35" facs="tcp:168524:26"/>
+               <head>OF THE ACTORS, and the true uſe of their <hi>QUALITY.</hi>
+               </head>
+               <head type="sub">THE THIRD BOOK.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Ragedies and Comedies, ſaith <hi>Dona<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us,</hi> had their beginning <hi>à rebus divinis,</hi> from di<g ref="char:EOLhyphen"/>vine ſacrifices, they differ thus: In Come<g ref="char:EOLhyphen"/>dies, <hi>turbulenta prima, tranquilla ultima,</hi> In Tragedies <hi>tranquilla prima, turbulenta vlti<g ref="char:EOLhyphen"/>ma,</hi> Comedies begin in trouble, and end in peace; Tragedies begin in calmes, and end in tempeſt. Of Comedies there be three kinds, moving Comedies, called <hi>Motoriae,</hi> ſtanding Comedies, called <hi>Statariae,</hi> or mixt betwixt both, called <hi>Miſtae:</hi> they are diſtributed into four parts, the <hi>Prologue,</hi> that is, the pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce, the <hi>Protacis,</hi> that is, the propoſition, which includes the firſt Act, and preſents the Actors; the <hi>Epitaſis,</hi> which is the bu<g ref="char:EOLhyphen"/>ſineſs &amp; body of the Comedy; the laſt the <hi>Cataſtrophe,</hi> &amp; con<g ref="char:EOLhyphen"/>cluſion: the definition of the Comedy, according to the <hi>Latines:</hi> a diſcourſe conſiſting of divers inſtitutions, com<g ref="char:EOLhyphen"/>prehending civill &amp; domeſtick things, in which is taught what in our lives and manners is to be followed, what to be avoided, the Greeks define it thus: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Cicero</hi> ſaith, a Comedy is the imitation of life, the glaſs of cuſtom and the Image of truth; in <hi>Athens</hi> they had their firſt O<g ref="char:EOLhyphen"/>riginal. The ancient Comedians uſed to attire their act<g ref="char:EOLhyphen"/>ors thus: the old men in white, as the moſt antient of all; the young men in party coloured garments, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o note their piverſity of thoughts, their ſlaves and ſervants in thin and
+<pb n="34" facs="tcp:168524:26"/> bare veſture, either to note their poverty, or that they might run the more lighter about their affaires: their Par<g ref="char:EOLhyphen"/>raſities wore robes that were turned in, and intrigately wrapped about them, the fortunate in white, the dſcon<g ref="char:EOLhyphen"/>tented in decayed veſture, or garments, grown out of fa<g ref="char:EOLhyphen"/>ſhion; the rich in purple, the poor in crimſon, ſouldiers wore purple jackets, hand-maids the habits of ſtrange vir<g ref="char:EOLhyphen"/>gins, bawds, pide coats, &amp; Curtezans, garments of the co<g ref="char:EOLhyphen"/>lour of mud to denote covetouſneſs: the ſtages were hung with rich Arras, which was firſt brought from King <hi>Attalus</hi> into <hi>Rome:</hi> his ſtate-hangings were ſo coſtly that from him all Tapeſtries, and rich Arras were called <hi>At<g ref="char:EOLhyphen"/>talia.</hi> This being a thing ancient as I have proved it, next of d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty, as many arguments have confirmed it, and of late years, by the beſt, without exception, fa<g ref="char:EOLhyphen"/>vorably tolerated, why ſhould I yeeld my cenſure, groun<g ref="char:EOLhyphen"/>ded on ſuch firm and eſtabliſht ſufficiency, to any Tower, founded on ſand, any caſtle built in the aire, or any tri<g ref="char:EOLhyphen"/>viall upſtart, and meer imaginary opinion.</p>
+               <p>
+                  <hi>Oderunt Hilarem triſtes triſtemque jo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſt.</hi>
+               </p>
+               <p>I hope there is no man of ſo unſenſible a ſpirit, that can inveigh againſt the true and direct uſe of this quality: Oh but ſay they, the <hi>Romans</hi> in their time, and ſome in theſe days have abuſed it, and therefore we volly out our excla<g ref="char:EOLhyphen"/>mations againſt the uſe. Oh ſhallow! Becauſe ſuch a man had his houſe burnt, we ſhall quite condemn the uſe of fire, becauſe one man quaft poyſon, we muſt forbear to drink, becauſe ſome have been ſhipwrak't, no man ſhall hereafter traffick by ſea. Then I may as well argue thus: he cut his finger, therefore I muſt wear no knife, yond man fell from his horſe, therefore muſt I travel a foot, that man ſurfeited, therefore dare not I eat. What can appear more abſurd than ſuch groſs and ſenſeleſs aſcertion? I could turn this unpointed weapon againſt his breaſt that aimes it at mine, and reaſon thus: <hi>Roſcius</hi> had a large Penſion al<g ref="char:EOLhyphen"/>lowed him by the Senate of <hi>Rome,</hi> why ſhould not an Actor
+<pb n="36" facs="tcp:168524:27"/> of the like deſert, have the like allowance now? or thie, the moſt famous City &amp; Nation in the world held plays in great admiration<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Ergo,</hi> but it is a rule in <hi>Logick, ex parti<g ref="char:EOLhyphen"/>cularibu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nihil fit.</hi> Theſe are not the Baſes we muſt build upon, nor the colums that muſt ſupport our architecture.</p>
+               <lg>
+                  <l>Et latro, &amp; cautus, praecingitur enſe viator,</l>
+                  <l>Ille ſed inſidias, hic ſibi portat opem.</l>
+                  <l>Both thieves and true-men, weapons wear alike.</l>
+                  <l>Th'one to defend, the other comes to ſtrike.</l>
+               </lg>
+               <p>Let us uſe fire to warm us, not to ſcorch us, to make ready our neceſſaries, not to burn our houſes: Let us drink to quench our thirſt, not to ſurfet; and eat to ſa<g ref="char:EOLhyphen"/>tisfie nature, not to gormondize.</p>
+               <lg>
+                  <l>—Comedia recta ſi mente legatur,</l>
+                  <l>Conſtabit nulii poſſe nocere—</l>
+                  <l>Playes are in uſe as they are underſtood,</l>
+                  <l>Spectators eyes may make them bad or good.</l>
+               </lg>
+               <p>Shall we condemne a generality for any one particular miſconſtruction? give me then leave to argue thus: A<g ref="char:EOLhyphen"/>mongſt Kings have there not been ſome tyrants? yet the office of a King is the image of the Majeſty of God. A<g ref="char:EOLhyphen"/>mongſt true ſubjects have there not crept in ſome falſe traitorrs? even among the twelve there was one <hi>Judas,</hi> but ſhall we for his fault cenſure worſe of the eleven? God forbid: Art thou Prince or Peaſant? Art thou of the No<g ref="char:EOLhyphen"/>bilitie or Commonalty? Art thou Merchant or Souldier? Of the City or Country? Art thou Preacher or Auditor? Art thou Tutor or Pupill? There have been of thy functi<g ref="char:EOLhyphen"/>on bad and good, prophane and holy. I induce theſe in<g ref="char:EOLhyphen"/>ſtances to confirm this common argument, that the uſe of any general thing is not for any one particular abuſe to be condemned: For if that aſſertion ſtood firm, we ſhould run into many notable inconveniencies.</p>
+               <q>
+                  <l>Qui locus eſt templis anguſtior hanc quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vitet,</l>
+                  <l>In culpam ſi qua eſt ingenioſa ſuam,</l>
+               </q>
+               <pb n="37" facs="tcp:168524:27"/>
+               <p> To prooceed to the manner: Firſt, playing is an orna<g ref="char:EOLhyphen"/>ment to the City, which ſtrangers of all Nations, repair<g ref="char:EOLhyphen"/>ing hither, report of their Countries, beholding them here with ſome admiration: for what variety of entertainment can there be in any City of Chriſtendom more than in <hi>Lon<g ref="char:EOLhyphen"/>don?</hi> But ſome will ſay, this diſh might be very well ſpared out of the banquet: to him I anſwer, <hi>Diogenes,</hi> that uſed to feed on roots, cannot reliſh a March-pane. Secondly, our <hi>Engliſh</hi> tongue, which hath been the moſt harſh, une<g ref="char:EOLhyphen"/>ven, and broken language of the world, part <hi>Dutch,</hi> part <hi>Iriſh, Saxon, Scotch Welch,</hi> and indeed a gallimaffry of ma<g ref="char:EOLhyphen"/>ny, but perfect in none, is now by this ſecondary means of playing, continually refined, every writer ſtriving in himſelf to add a new flouriſh unto it; ſo that in proceſs, from the moſt rude and unpoliſht tongue, it is grown to a moſt perfect &amp; compoſed language, and many excellent works, and elaborate Poems writ in the ſame, that many Nations grow inamoured of our tongue, before deſpiſed, Neither Saphick, louick, Iambick, Phaleutick, Adonick, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lic<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, Hex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, Tetramit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, Pentamiter, Aſclepe<g ref="char:EOLhyphen"/>diack, Choriambick, nor any other meaſured verſe uſed amongſt the <hi>Greeks, Latines, Italians, French, Dutch,</hi> or <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> writers, but may be expreſt in <hi>Engliſh,</hi> be it in blanck verſe or meeter, in Diſtichon, or Hexaſtichon, or in what form or feet, or what number you can deſire. Thus you ſee to what excellency our refined <hi>Engliſh</hi> is brought, that in theſe days we are aſhamed of that <hi>Euphony</hi> &amp; eloquence which within theſe 60. years, the beſt tongues in the land were proud to pronounce. Thirdly, playes have made the ignorant more apprehenſive, taught the unlearned knowledge of many famous hiſtories, inſtructed ſuch as ca<g ref="char:cmbAbbrStroke">̄</g>not read in the dicſovery of all our <hi>Engliſh</hi> Chronicles, &amp; what man have you now of that weak capacity, that can<g ref="char:EOLhyphen"/>not diſcourſe of any notable thing recorded even from <hi>William</hi> the <hi>Conquerour,</hi> nay from the landing of <hi>Bruit,</hi> un<g ref="char:EOLhyphen"/>till this day, being poſſeſt of their true uſe, For or becauſe
+<pb n="38" facs="tcp:168524:28"/> Playes are writ with this aim, and carried with this me<g ref="char:EOLhyphen"/>thod, to teach the Subjects obedience to their King, to ſhew the people the untimely ends of ſuch as have moved tumults, commotions, and inſurrections, to preſent them with the flouriſhing eſtate of ſuch as live in obedience, exhorting them to allegeance, dehorting them from all trayterous and fellonious ſtratagems.</p>
+               <p>
+                  <hi>Omne genus ſcripti gravitate Tragedia vincit.</hi> 
+                  <note place="margin">
+                     <g ref="char:V">Ʋ</g>ſe of Trage<g ref="char:EOLhyphen"/>dies.</note>
+               </p>
+               <p>If we preſent a Tragedy, we include the fatal and abor<g ref="char:EOLhyphen"/>tive ends of ſuch as commit notorious murders, which is aggravated &amp; acted with all the Art that may be, to terri<g ref="char:EOLhyphen"/>fy men from the like abhorred practices. If we preſent a forreign Hiſtory, the ſubject is ſo intended, that in the <note place="margin">
+                     <g ref="char:V">Ʋ</g>ſe of Hiſtori<g ref="char:EOLhyphen"/>call playes.</note> lives of <hi>Romans, Grecians,</hi> or others, either the vertues of our Country-men are extolled, or their vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es reproved; as thus, by the example of <hi>Caeſar</hi> to ſtir Souldiers to valour and magnanimity: by the fall of <hi>Pompey,</hi> that no man truſt in his own ſtrength: we preſent <hi>Alexander,</hi> killing his friend in his rage, to reprove raſhneſs: <hi>Myda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> choked with his gold, to tax covetouſneſs: <hi>Nero,</hi> againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anny: <hi>Sarda<g ref="char:EOLhyphen"/>napalus,</hi> againſt luxury: <hi>Nynus,</hi> againſt ambition; with infi<g ref="char:EOLhyphen"/>nite others, by ſundry inſtances, either animating men to noble attempts, or attaching the conſciences of the ſpecta<g ref="char:EOLhyphen"/>tors, finding themſelves toucht in preſenting the vices of others. If a moral, it is to perſwade men to humanity and a good life, to inſtruct them in civility &amp; good manners, ſhewing them the fruits of honeſty, and the end of vil<g ref="char:EOLhyphen"/>lany. <note place="margin">
+                     <g ref="char:V">Ʋ</g>ſe of Morals.</note>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Verſibus exponi Tragicis res Comica non vult.</hi>
+                  </l>
+                  <l>Again, <hi>Horace, Arte Poetica.</hi>
+                  </l>
+                  <l>
+                     <hi>Et noſtri proavi Plautinos &amp; numeros &amp;</hi>
+                  </l>
+                  <l>
+                     <hi>Laudavere ſales—</hi>
+                  </l>
+               </lg>
+               <p>If a Comedy, it's pleaſantly contrived with merry acci<g ref="char:EOLhyphen"/>dents <note place="margin">
+                     <g ref="char:V">Ʋ</g>ſe of Come<g ref="char:EOLhyphen"/>dies.</note> and intermixt with apt &amp; witty jeſts, to preſent be<g ref="char:EOLhyphen"/>fore the Prince at certain times of ſolemnity, or elſe meri<g ref="char:EOLhyphen"/>ly fitted to the Stage. And what is then the ſubject of this harmleſs mirth? either in the ſhape of a Clown, to ſhew
+<pb n="39" facs="tcp:168524:28"/> others their ſlovenly and unhanſom behaviour, that they may reform that ſimplicity in themſelves, which others make their ſport, leſt they happen to become the like ſub<g ref="char:EOLhyphen"/>ject of general ſcorn to an auditory; elſe it intreats of love, deriding fooliſh inamorates, who ſpend their ages, their ſpirits, nay, themſelves, in the ſervile and rediculous imployments of their Miſtreſſes: and theſe are mingled with ſportful accidents, to recreate ſuch as of themſelves are wholly devoted to Melancholly, which corrupts the blood: or to refreſh ſuch wearied ſpirits as are tired with labour, or ſtudy, to moderate the cares &amp; heavineſs of the mind, that they may return to their trades and faculties with more zeal and earneſtneſs, after ſome ſmall ſoft and pleaſant retirement. Sometimes they diſcourſe of Pan<g ref="char:EOLhyphen"/>taloons, Uſurers that have unthrifty ſons, which both the fathers and ſons may behold to their inſtructions: ſome<g ref="char:EOLhyphen"/>times of Curteſans, to divulge their ſubtelties and ſnares; in which young men may be intangled, ſhewing them the means to avoyd them. If we preſent a Paſtoral, we ſhew <note place="margin">
+                     <g ref="char:V">Ʋ</g>ſe of Paſto<g ref="char:EOLhyphen"/>rals.</note> the harmleſs love of Shepheards diverſly moralized, di<g ref="char:EOLhyphen"/>ſtinguiſhing between the craft of the City, and the inno<g ref="char:EOLhyphen"/>cency of the ſheep-coat. Briefly, there is neither Tragedy, Hiſtory, Comedy, Moral, or Paſtoral, from which an in<g ref="char:EOLhyphen"/>finite uſe cannot be gathered. I ſpeak not in the defence of any laſcivious ſhewes, ſcurrelous jeaſts, or ſcandalous invectives: If there be any ſuch, I baniſh them quite from my patronage; yet <hi>Horace, Sermon</hi> 1. <hi>Satyr</hi> 4. thus writes;</p>
+               <lg>
+                  <l>Eupolis at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Cratinus Ariſtephaneſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Poetae,</l>
+                  <l>Atque alii quorum Comaedia priſca virorum eſt:</l>
+                  <l>Si quis erat dignus deſcribi quod malus, aut fur,</l>
+                  <l>Quod Maechus foret aut ſicarius, aut alioqui,</l>
+                  <l>Famoſus, multa cum libertate notabunt.</l>
+               </lg>
+               <p>
+                  <hi>Eupolis, Cratinus, Ariſtaphanes,</hi> &amp; other Comick Poets in the time of <hi>Horace,</hi> with large ſcope, &amp; unbridled liberty
+<pb n="40" facs="tcp:168524:29"/> boldly and plainly ſcourged all ſuch abuſes as in their a<g ref="char:EOLhyphen"/>ges were generally practiſed, to the ſtaining and blemiſh<g ref="char:EOLhyphen"/>ing of a fair &amp; beautiful Commonweal. Likewiſe, a lear<g ref="char:EOLhyphen"/>ned Gentleman in his <hi>Apology for Poetry</hi> ſpeaks thus: <hi>Tra<g ref="char:EOLhyphen"/>gedies well handled be a moſt worthy kind of Poeſy. Comedies make men ſee and ſhame at their faults,</hi> and proceeding fur<g ref="char:EOLhyphen"/>ther amongſt other Univerſity-playes, he remembers the Tragedy of <hi>Richard</hi> the third, acted in St. <hi>John</hi>'s in <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> ſo eſſentially, that had the tyrant <hi>Phaleris</hi> beheld his bloody proceedings, it had mollified his heart, and made him relent at fight of his inhumane maſſacres. Fur<g ref="char:EOLhyphen"/>ther, he commends of Comedies, the <hi>Cambridge Ped<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius,</hi> and the <hi>Oxford Bellum Grammaticale;</hi> and le<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ving them paſ<g ref="char:EOLhyphen"/>ſes on to our publick Playes, ſpeaking liberally in their praiſe, and what commendable uſe may be gathered of them. If you peruſe <hi>Margarita Poetica,</hi> you may ſee what excellent uſes &amp; ſentences he hath gathered ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Terence</hi> his <hi>Andrea, Eunuchus,</hi> &amp; the reſt. Likewiſe out of <hi>Plautus</hi> his <hi>Amphitrio, Aſinaria,</hi> and moreover, <hi>Ex Comediis <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hi<g ref="char:EOLhyphen"/>lodoxis, Caroli Acretini: De fal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a Hipocrita, &amp; triſti Mercu<g ref="char:EOLhyphen"/>rii, Ronſii verſellenſis: Ex Comedia Philanira <g ref="char:V">Ʋ</g>g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lini par<g ref="char:EOLhyphen"/>menſis,</hi> all reverend ſchollers, &amp; Comick Poets, read elſe the four Tragedies, <hi>Philunica, Petrus, Aman, Katherina, Claudii Roileti Beluenſis:</hi> But I ſhould tire my ſelf to reck<g ref="char:EOLhyphen"/>on the names of all <hi>French, Roman, German, Spaniſh, Itali<g ref="char:EOLhyphen"/>an</hi> and <hi>Engliſh</hi> Poets, being in number infinite, and their labours extant to approve their worthineſs.</p>
+               <p>Is thy mind Noble? and wouldſt thou be further ſtird up to magnanimity? Behold, upon the Stage thou mayſt ſee <hi>Hercules, Achilles, Alexander, Caeſar, Alcibiades, Lyſander, Sertorius, Hannibal, Antigonus, Phillip of Macedon, Mithrida<g ref="char:EOLhyphen"/>tes</hi> of <hi>Pontus, Pir<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hus</hi> of <hi>Epire, Ageſilaus,</hi> among the <hi>Lace<g ref="char:EOLhyphen"/>demonians, Epaminondas;</hi> among the <hi>Thebans, Scevola</hi> a<g ref="char:EOLhyphen"/>lone entring the armed tents of <hi>Porſenna: Horatius Cho<g ref="char:EOLhyphen"/>cles</hi> alone withſtanding the whole army of the <hi>Hetrurians: Leonides</hi> of <hi>Sparta</hi> chooſing a Lyon to lead a band of Deer,
+<pb n="41" facs="tcp:168524:29"/> rather than one Deer to conduct an army of Lyons, with infinite, others in their own perſons, qualities &amp; ſhapes, a<g ref="char:EOLhyphen"/>nimating thee with courage, deterring thee from cowar<g ref="char:EOLhyphen"/>diſe. Haſt thou of thy Country well deſerved? &amp; art thou of thy labour evill requited? to aſſociate thee thou mayſt ſee the valiant <hi>Roman Marcellus,</hi> purſue <hi>Hannibal</hi> at <hi>Nola;</hi> conquering <hi>Syracuſa,</hi> vanquiſhing the <hi>Gauls,</hi> all <hi>Padua,</hi> &amp; preſently, for his reward, baniſht his Country into <hi>Greece.</hi> There thou mayſt ſee <hi>Scipio Affricanus,</hi> now triumphing for the conqueſt of all <hi>Affrica,</hi> and immediately exll'd the confines of <hi>Romania.</hi> Art thou inclin'd to luſt? behold the falls of the <hi>Tarquins,</hi> in the rape of <hi>Lucrece:</hi> the guerdon of luxury in the death of <hi>Sardanapalus: Appius</hi> deſtroyed in the raviſhing of <hi>Virginia,</hi> and the deſtruction of <hi>Troy</hi> in the luſt of <hi>Helena.</hi> Art thou proud? our Scene preſents thee with the fall of <hi>Phaeton, Narciſſus</hi> pining in the love of his ſhadow, ambitious <hi>Hamon</hi> now calling himſelf a God, and by and by thruſt headlong among the Devils. We preſent men with the uglineſs of their vices, to make them the more to abhor them, as the <hi>Perſians</hi> uſe, who a<g ref="char:EOLhyphen"/>bove all ſins, loathing drunkenneſs, accuſtomed in their ſolemne feaſts, to make their ſervants and captives ex<g ref="char:EOLhyphen"/>tremely overcome with wine, and then call their children to view their naſty &amp; loathſome behaviour, making them hate that ſin in themſelves, which ſhewed ſo groſs and abominable in others. The like uſe may be gathered of the Drunkards ſo naturally imitated in our Playes, to the applauſe of the Actor, content of the Auditory, and reproving of the Vice. Art thou covetous? go no further than <hi>Plautus</hi> his Comedy called <hi>Euclio.</hi>
+               </p>
+               <lg>
+                  <l>Dum fallax ſervus, durus pater, improba lena</l>
+                  <l>Vixerit, &amp; meretrix blanda, Menandros erit.</l>
+                  <l>While there's falſe ſervant, or obdurate ſire,</l>
+                  <l>Sly baud, ſmooth whore, Menandros wee'l admire.</l>
+               </lg>
+               <p>To end, in a word. Art thou addicted to prodigality? envy? cruelty? perjury? flattery? or rage? our Scenes afford
+<pb n="42" facs="tcp:168524:30"/> thee ſtore of men to ſhape your lives by, who be frugall, loving, gentle, truſty, without ſoothing, and in all things temperate. Wouldſt thou be honourable, juſt, friendly, moderate, devout, merciful, and loving concord? thou mayeſt ſee many of their fates and ruines, who have been diſhonourable, unjuſt, falſ, gluttenous, ſacrilegious, blou<g ref="char:EOLhyphen"/>dy-minded, and brochers of diſſention. Women likewiſe that are chaſte, are by us extolled, &amp; encouraged in their vertues, being inſtanced by <hi>Diana, Belpheby, Matilda, Lu<g ref="char:EOLhyphen"/>crece,</hi> and the Counteſs of <hi>Salisbury.</hi> The unchaſte are by us ſhewed their errors, in the perſons of <hi>Phrinc, Lais, Thais, Flora:</hi> and amongſt us <hi>Roſamond</hi> and Miſtreſs <hi>Shore.</hi> What can ſooner print modeſty in the ſouls of the wanton, than by diſcovering unto them the monſtrouſnes of their ſin? It followes that we prove theſe exerciſes to have been the diſcoverers of many notorious murders, long concealed from the eyes of the world. To omit all far-fetcht inſtan<g ref="char:EOLhyphen"/>ces, we will prove it by a domeſtick &amp; home born truth, which within theſe few years happened. At <hi>Lin</hi> in <hi>Nor<g ref="char:EOLhyphen"/>folk,</hi> 
+                  <note place="margin">A ſtrange ac<g ref="char:EOLhyphen"/>cident happen<g ref="char:EOLhyphen"/>ning at a play.</note> the then Earle of <hi>Suſſex</hi> Players acting the old Hiſto<g ref="char:EOLhyphen"/>ry of Fryer <hi>Francis,</hi> &amp; preſenting a woman, who inſatiate<g ref="char:EOLhyphen"/>ly doting on a young gentleman, had (the more ſecurely to enjoy his affection) miſchievouſly and ſecretly murde<g ref="char:EOLhyphen"/>red her husband, whoſe ghoſt haunted her, and at diverſe times in her moſt ſolitary and private contemplations, in moſt horrid and fearful ſhapes appeared and ſtood before her. As this was acted, a towns-woman (till then of good eſtimation and report) finding her conſcience (at this pre<g ref="char:EOLhyphen"/>ſentment) extreamly troubled, ſuddenly skreeked &amp; cry'd out, Oh my husband, my husband! I ſee the ghoſt of my husband fiercely theatning and me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>racing me. At which ſhril and unexpected out-cry, the people about her, mov'd to a ſtrang amazement, inquired the reaſon of her clamor, when preſently unurged, ſhe told them, that ſeven years ago, ſhe, to be poſſeſt of ſuch a Gentleman (meaning him) had poiſoned her husband, whoſe fearfull image perſona<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed
+<pb n="43" facs="tcp:168524:30"/> it ſelf in the ſhape of that ghoſt: whereupon the mur<g ref="char:EOLhyphen"/>dreſs was apprehended, before the Juſtices further exami<g ref="char:EOLhyphen"/>ned, and by her voluntary confeſſion after condemned: That this is true, as well by the report of the Actors as the records of the Town, there are many ey-witneſſes of this accident of late years living, who did confirm it.</p>
+               <p>As ſtrange an accident happened to a company of the ſame quality 60. years ago, or thereabout, who play<g ref="char:EOLhyphen"/>ing <note place="margin">A ſtrange ac<g ref="char:EOLhyphen"/>cident happen<g ref="char:EOLhyphen"/>ning at a play.</note> late in the night at a place called <hi>Peri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in <hi>Cornwal,</hi> certain <hi>Spainards</hi> were landed the ſame night unſuſpected and undiſcovered, with intent to take in the Town, ſpoil and burn it, when ſuddenly, even upon their entrance, the players (ignorant as the towns men of any ſuch attempt) preſenting a battle on the ſtage with their drum and trumpets, ſtrook up a loud alarum: which the enemy hearing, and fearing they were diſcovered, amazedly reti<g ref="char:EOLhyphen"/>red, made ſome few idle ſhot in a bravado, and ſo in a hurly-burly fled diſorderly to their boats. At the report of this tumult, the towns men were immediately armed, and purſued them to the ſea, prayſing God for their hap<g ref="char:EOLhyphen"/>py deliverance from ſo great a danger, who by his provi<g ref="char:EOLhyphen"/>dence made theſe ſtrangers the inſtrument and ſecondary means of their eſcape from ſuch imminent miſchief, and the tyranny of ſo remorſeleſſe an enemy.</p>
+               <p>Another of the like wonder happened at <hi>Amſterdam</hi> in <hi>Holland,</hi> a Company of our <hi>Engliſh</hi> Comedians (well <note place="margin">A ſtrange acci<g ref="char:EOLhyphen"/>cident happen<g ref="char:EOLhyphen"/>ning at a play.</note> known) travelling thoſe Countries, as they were before the Burgers and other the chief inhabitants, acting the laſt part of the 4 ſons of <hi>Amon,</hi> towards the laſt act of the hiſto<g ref="char:EOLhyphen"/>ry, where penitent <hi>Renaldo,</hi> like a common labourer, lived in diſguiſe, vowing as his laſt pennance, to labor &amp; carry burdens to the ſtructure of a goodly Church there to be erected: whoſe diligence the labourers envying, ſince by reaſon of his ſtature and ſtrength, he did uſually perfect more work in a day, than a dozen of the beſt, (he work<g ref="char:EOLhyphen"/>ing for his conſcience, they for their lucres.) Whereupon
+<pb n="44" facs="tcp:168524:31"/> by reaſon his induſtry had ſo much diſparaged their li<g ref="char:EOLhyphen"/>ving, conſpired among themſelves to kill him, waiting ſome opportunity to finde him aſleep, which they might eaſily do, ſince the ſoreſt labours are the ſoundeſt ſleepers, &amp; induſtry is the beſt preparative to reſt. Having ſpi'd their opportunity, they drave a nail into his temples, of which wound immediatly he died. As the Actors handled this, the audience might on a ſuddain underſtand an out-cry, and loud ſhreek in a remote galery, &amp; preſſing about the place, they might perceive a woman of great gravity, ſtrangely amazed, who with a diſtracted and troubled brain oſt ſigh'd out theſe words: Oh my husband, my hus<g ref="char:EOLhyphen"/>band! The play, without further interruption, proceeded; the woman was to her own houſe conducted, without a<g ref="char:EOLhyphen"/>ny apparant ſuſpition, every one conjecturing as their fancies led them. In this ago <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſhe ſome of theſe few dayes languiſhed, and on a time, as certain of her well diſpoſed neighbours came to comfort her, one amongſt the reſt be<g ref="char:EOLhyphen"/>ing Church-warden, to him the S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n poſts, to tell him of a ſtrange thing happening him in the ripping up of a grave: ſee here (quoth he) what I have found, and ſhews them a fare skull, with a great nail pierc'd quite through the braine-pan, but we cannot conjecture to whom it ſhould belong, nor how long <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t hath lain in the earth, the grave being confuſed, and the fleſh conſumed. At the re<g ref="char:EOLhyphen"/>port of this accident, the woman, out of the trouble of her afflicted conſcience, diſcovered a former murther, For 12. years ago, by driving that naile into that skull, being the head of her husband, ſhe hath trecherouſly ſlain him. This being publick y confeſt, ſhe was arraigned con<g ref="char:EOLhyphen"/>demned, adjudged, and burned. But I draw my ſubject to greater length than I purpoſed: theſe therefore out of other infinities, I have collected both for their familiar<g ref="char:EOLhyphen"/>neſs and lateneſſe of memory.</p>
+               <p>Thus our antiquity we have brought from the <hi>Grecians</hi> in the time of <hi>Hercules<g ref="char:punc">▪</g>
+                  </hi> from the <hi>Macedonians</hi> in the age
+<pb n="45" facs="tcp:168524:31"/> of <hi>Alexander:</hi> from the <hi>Romans,</hi> long before <hi>Julius Caeſar,</hi> and ſince him, through the reigns of 23. Emperours ſuc<g ref="char:EOLhyphen"/>ceeding, even to <hi>Marcus Aurelius:</hi> after him, they wore ſupported by the <hi>Mantuans, Venetians, Valencians, Neopo<g ref="char:EOLhyphen"/>litans,</hi> the <hi>Florentines,</hi> and others: ſince, by the <hi>German</hi> Princes, the <hi>Palſgrave</hi> the <hi>Landſgrave,</hi> the Dukes of <hi>Saxony,</hi> of <hi>Brownſwick,</hi> &amp;c. The Cardinal of <hi>Bruxels,</hi> hath at this time in pay a company of our <hi>Engliſh</hi> Comedians. The <note place="margin">Cardinall <hi>Al<g ref="char:EOLhyphen"/>ſenſus.</hi>
+                  </note> 
+                  <hi>French</hi> King allows certain companies in <hi>Paris, Orleans;</hi> beſides other Cities: ſo doth the King of <hi>Spain;</hi> in <hi>Civill, Madrill,</hi> and other Provinces. But in no Country they are of that eminencie that ours are: ſo our moſt royall and ever renowned Soveraigns licenced, us in <hi>London,</hi> ſo did his predeceſſor, the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rice vertuous Virgin Queen <hi>Elizabeth,</hi> and before her, her ſiſtes Queen <hi>Mary, Edward</hi> the ſixth, and their Father, <hi>Hen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> the eighth: And before theſe, in the tenth yea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the reign of <hi>Edward</hi> the fourth, <hi>Anno</hi> 1490 <hi>John S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow</hi> an ancient grave Chronicles, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ords (amongſt other <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to the like effect) that a Play was acted at a place called <hi>Skinners-well,</hi> faſtly <hi>Clerken-well,</hi> which continued eight dayes, and was of matter from <hi>Adam</hi> and <hi>Eve</hi> (the firſt creation of the world) the ſpectators were no worſe than the Royal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of <hi>England.</hi> And among other commendable exerciſes in this place, the Company of the <hi>Skinners</hi> of <hi>London</hi> held certain yearly ſolemn Playes In place where<g ref="char:EOLhyphen"/>of, now in theſe latter days, the w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſtling, and ſuch o<g ref="char:EOLhyphen"/>ther paſtimes have been kept, and is ſtill held about <hi>Bar<g ref="char:EOLhyphen"/>tholomew-tide.</hi> Alſo in the year 1390. the 14. year of the reign of <hi>Richard</hi> the ſecond, the 18 of <hi>July,</hi> were the like <hi>Enterludes</hi> recorded of at the ſame place, which continu<g ref="char:EOLhyphen"/>ed 3 days together, the King, and Queen, and Nobility being there preſent. Moreover, of late years in divers pla<g ref="char:EOLhyphen"/>ces of <hi>England,</hi> here were Towns that held the priviledge of their Fairs, and other Charters, by yearly Stage-plays; as at <hi>Manningtree</hi> in <hi>Suffolk, Kendall</hi> in the <hi>North,</hi> and o<g ref="char:EOLhyphen"/>thers.
+<pb n="46" facs="tcp:168524:32"/> To let theſe paſſe, as things familiarly known to all men. Now to ſpeak of ſome abuſe lately crept into the quality, as an inveighing againſt the State, the Court, the Law, the City and their governments, with the particu<g ref="char:EOLhyphen"/>larizing of private mens humors, Noble-men and others. I know it diſtaſtes many; neither do I any way approve it, nor dare I by any means excuſe it. The liberty which ſome arrogate to themſelves, committing their bitterneſs and liberall invectives againſt all eſtates, to the mouths of Children, ſuppoſing their juniority to be a priviledge for any rayling, be it never ſo violent: I could adviſe all ſuch, to curbe and limit this preſumed liberty within the bands of diſcretion and government. But wiſe and judi<g ref="char:EOLhyphen"/>cial Cenſurers, before whom ſuch complaints ſhall at any time hereafter come, will not (I hope) impute theſe abu<g ref="char:EOLhyphen"/>ſes to any tranſgreſſion in us, who have ever been carefull and provident to ſhun the like. I ſurceaſe to proſecute this any further, leſt my good meaning be (by ſome) miſ<g ref="char:EOLhyphen"/>conſtrued: and fearing likewiſe, left with tediouſneſs, I tire the patience of the favourable Reader, here (though abruptly) I conclude my third and laſt Treatiſe.</p>
+               <epigraph>
+                  <q>Stultitiam patiuntur opes, mihi parvula res eſt.</q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
